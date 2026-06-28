@@ -21864,6 +21864,8 @@
       "rates_down": 1.0,
       "downtrend": 0.0
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   }
 ]
