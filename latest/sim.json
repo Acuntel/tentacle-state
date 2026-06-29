@@ -1,10 +1,10 @@
 {
-  "episodes": 312022,
+  "episodes": 312023,
   "wins": 154286,
-  "sum_ret": 140470.9600000002,
-  "sim_equity": 492.99920000000003,
+  "sum_ret": 140462.9600000002,
+  "sim_equity": 489.05520640000003,
   "peak": 500.0,
   "start": 500.0,
-  "last_ts": 1782759909.6054416,
-  "eps_since_reset": 2
+  "last_ts": 1782760195.5851502,
+  "eps_since_reset": 3
 }
