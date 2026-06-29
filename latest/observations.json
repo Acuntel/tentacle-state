@@ -48,33 +48,6 @@
     "done": []
   },
   {
-    "ticker": "ADTX",
-    "day": "2026-06-24",
-    "ts": 1782315553.3157527,
-    "entry": 0.04360000044107437,
-    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_8k",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": -0.4,
-      "squeeze": 0.59,
-      "quality": 0.45,
-      "analyst_conv": 0.56,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "EDHL",
     "day": "2026-06-24",
     "ts": 1782325376.7555006,
@@ -21872,5 +21845,67 @@
     "done": [
       1.0
     ]
+  },
+  {
+    "ticker": "GNK",
+    "day": "2026-06-29",
+    "ts": 1782747878.8815224,
+    "entry": 24.059999465942383,
+    "sig": "activist_stake|filing+news+social|risk_on",
+    "sources": [
+      "edgar_13d",
+      "google_news",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": -0.35,
+      "tech_bias": 0.45,
+      "squeeze": 0.45,
+      "quality": 0.95,
+      "analyst_conv": 0.59,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.472,
+      "opt_x_tech": -0.1575,
+      "sqz_x_filing": 0.45,
+      "risk_on": 1.0,
+      "rates_down": 0.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": 0.4219,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.2355,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.5146,
+      "o_pcr_vol": 0.9789,
+      "o_pcr_oi": 0.2913,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.9498,
+      "o_bias": -0.3364,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0268,
+      "f_days_to_cover": 0.9971,
+      "f_short_change": 0.1234,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0438,
+      "f_rev_growth": 0.5413,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.4219,
+      "f_quality": 0.7398
+    }
   }
 ]
