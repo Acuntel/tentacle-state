@@ -48,33 +48,6 @@
     "done": []
   },
   {
-    "ticker": "EDHL",
-    "day": "2026-06-24",
-    "ts": 1782325376.7555006,
-    "entry": 4.980000019073486,
-    "sig": "unknown|news+regulatory|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "nasdaq_halts"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 0.8,
-      "opt_bias": 0.0,
-      "tech_bias": 0.25,
-      "squeeze": 0.43,
-      "quality": 0.15,
-      "analyst_conv": 0.94,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "EHGO",
     "day": "2026-06-24",
     "ts": 1782326946.160369,
@@ -21843,7 +21816,8 @@
       "downtrend": 0.0
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -21910,5 +21884,69 @@
     "done": [
       1.0
     ]
+  },
+  {
+    "ticker": "HON",
+    "day": "2026-06-29",
+    "ts": 1782757555.2789035,
+    "entry": 234.67999267578125,
+    "sig": "gov_contract|news+regulatory+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "gov_contract",
+      "nasdaq_halts",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": 0.25,
+      "tech_bias": -0.4,
+      "squeeze": 0.32,
+      "quality": 0.8,
+      "analyst_conv": 0.52,
+      "is_filing": 0.0,
+      "is_options": 1.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.41600000000000004,
+      "opt_x_tech": -0.1,
+      "sqz_x_filing": 0.0,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 1.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.4,
+      "t_bias": -0.3799,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.6584,
+      "t_near_high": 0.0,
+      "o_implied_move": 0.9997,
+      "o_atm_iv": 0.5117,
+      "o_pcr_vol": 0.0699,
+      "o_pcr_oi": 0.5511,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.9951,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.1391,
+      "o_bias": 0.2449,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0305,
+      "f_days_to_cover": 0.9987,
+      "f_short_change": 0.6556,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.1085,
+      "f_rev_growth": 0.024,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.3095,
+      "f_quality": 0.664
+    },
+    "done": []
   }
 ]
