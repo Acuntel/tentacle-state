@@ -206,141 +206,6 @@
     ]
   },
   {
-    "ticker": "FLNC",
-    "day": "2026-06-25",
-    "ts": 1782429266.2917783,
-    "entry": 19.399999618530273,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.2,
-      "tech_bias": -0.4,
-      "squeeze": 0.54,
-      "quality": 0.35,
-      "analyst_conv": 0.56,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "GNPX",
-    "day": "2026-06-25",
-    "ts": 1782429605.9752533,
-    "entry": 0.4740000069141388,
-    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "sec_fulltext"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": -0.4,
-      "squeeze": 0.45,
-      "quality": 0.3,
-      "analyst_conv": 0.45,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "GURE",
-    "day": "2026-06-25",
-    "ts": 1782430353.974008,
-    "entry": 3.990000009536743,
-    "sig": "unknown|news+regulatory|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "nasdaq_halts"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": -0.65,
-      "squeeze": 0.16,
-      "quality": 0.45,
-      "analyst_conv": 0.45,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "EQIX",
-    "day": "2026-06-25",
-    "ts": 1782430715.967618,
-    "entry": 1087.8699951171875,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 0.6,
-      "opt_bias": -0.15,
-      "tech_bias": 0.25,
-      "squeeze": 0.29,
-      "quality": 0.75,
-      "analyst_conv": 0.94,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "FSLR",
-    "day": "2026-06-25",
-    "ts": 1782430942.2680376,
-    "entry": 248.75,
-    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "newswire"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.1,
-      "tech_bias": 0.35,
-      "squeeze": 0.48,
-      "quality": 0.95,
-      "analyst_conv": 0.94,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "HTZ",
     "day": "2026-06-25",
     "ts": 1782431381.0622568,
@@ -15368,7 +15233,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -15432,7 +15298,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -15485,7 +15352,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -15548,7 +15416,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -15612,7 +15481,8 @@
       "f_quality": 0.3799
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -15656,7 +15526,8 @@
       "t_near_high": 0.0
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -32385,7 +32256,9 @@
       "f_squeeze": 0.3004,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NIMU",
@@ -32432,7 +32305,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "SIG",
@@ -32496,7 +32371,9 @@
       "f_squeeze": 0.7114,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "IRON",
