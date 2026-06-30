@@ -32137,7 +32137,9 @@
       "f_squeeze": 0.1586,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ZYME",
