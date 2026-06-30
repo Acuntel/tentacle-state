@@ -104,282 +104,6 @@
     ]
   },
   {
-    "ticker": "GDC",
-    "day": "2026-06-25",
-    "ts": 1782349088.672749,
-    "entry": 0.02160000056028366,
-    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_8k",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": 0.4,
-      "squeeze": 0.58,
-      "quality": 0.3,
-      "analyst_conv": 1.0,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "VTS",
-    "day": "2026-06-25",
-    "ts": 1782349647.6214192,
-    "entry": 15.65999984741211,
-    "sig": "insider_cluster|filing+news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_form4",
-      "google_news",
-      "stocktwits"
-    ],
-    "feat": {
-      "independence": 1.0,
-      "news_events": 1.0,
-      "opt_bias": 0.3,
-      "tech_bias": 0.05,
-      "squeeze": 0.78,
-      "quality": 0.4,
-      "analyst_conv": 1.0,
-      "is_filing": 1.0,
-      "is_options": 1.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "PSUS",
-    "day": "2026-06-25",
-    "ts": 1782349647.624789,
-    "entry": 37.650001525878906,
-    "sig": "insider_cluster|filing+news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_form4",
-      "google_news",
-      "stocktwits"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": 0.0,
-      "squeeze": 0.01,
-      "quality": 0.4,
-      "analyst_conv": 0.94,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "STFS",
-    "day": "2026-06-25",
-    "ts": 1782349793.1151369,
-    "entry": 12.34000015258789,
-    "sig": "unknown|news+regulatory|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "nasdaq_halts"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": 0.6,
-      "squeeze": 0.39,
-      "quality": 0.45,
-      "analyst_conv": 0.94,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "CABO",
-    "day": "2026-06-25",
-    "ts": 1782349952.2897465,
-    "entry": 45.22999954223633,
-    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_8k",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 0.4,
-      "opt_bias": 0.0,
-      "tech_bias": 0.1,
-      "squeeze": 0.79,
-      "quality": 0.25,
-      "analyst_conv": 0.94,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "INVE",
-    "day": "2026-06-25",
-    "ts": 1782350046.1227708,
-    "entry": 3.719899892807007,
-    "sig": "mna_target|filing+news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_8k",
-      "google_news",
-      "sec_fulltext",
-      "stocktwits"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.2,
-      "tech_bias": -0.2,
-      "squeeze": 0.37,
-      "quality": 0.45,
-      "analyst_conv": 0.56,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "DFTX",
-    "day": "2026-06-25",
-    "ts": 1782350046.122851,
-    "entry": 42.119998931884766,
-    "sig": "fda_approval|filing+news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_8k",
-      "google_news",
-      "sec_fulltext",
-      "stocktwits"
-    ],
-    "feat": {
-      "independence": 1.0,
-      "news_events": 1.0,
-      "opt_bias": 0.2,
-      "tech_bias": 0.35,
-      "squeeze": 0.52,
-      "quality": 0.3,
-      "analyst_conv": 1.0,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "NTHI",
-    "day": "2026-06-25",
-    "ts": 1782350046.1230104,
-    "entry": 4.690000057220459,
-    "sig": "fda_approval|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "sec_fulltext"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 0.6,
-      "opt_bias": 0.0,
-      "tech_bias": -0.3,
-      "squeeze": 0.27,
-      "quality": 0.3,
-      "analyst_conv": 0.45,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "CSGP",
-    "day": "2026-06-25",
-    "ts": 1782350122.5791795,
-    "entry": 29.799999237060547,
-    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_form4",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": -0.2,
-      "tech_bias": -0.7,
-      "squeeze": 0.14,
-      "quality": 0.95,
-      "analyst_conv": 0.45,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "LZB",
-    "day": "2026-06-25",
-    "ts": 1782350583.3621552,
-    "entry": 41.869998931884766,
-    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_form4",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 0.4,
-      "opt_bias": 0.05,
-      "tech_bias": 0.5,
-      "squeeze": 0.39,
-      "quality": 0.65,
-      "analyst_conv": 0.94,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "KARD",
     "day": "2026-06-25",
     "ts": 1782351926.9106305,
@@ -22575,7 +22299,9 @@
       "f_squeeze": 0.4219,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CTGO",
@@ -22638,7 +22364,9 @@
       "f_squeeze": 0.5005,
       "f_quality": 0.3799
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "MTX",
@@ -22702,7 +22430,9 @@
       "f_squeeze": 0.4053,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "MU",
@@ -22765,7 +22495,9 @@
       "f_squeeze": 0.2543,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "INTC",
@@ -22828,7 +22560,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.3364
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AMZN",
@@ -22891,7 +22625,9 @@
       "f_squeeze": 0.0798,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "SNDK",
@@ -22954,7 +22690,9 @@
       "f_squeeze": 0.4301,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "HON",
@@ -23018,7 +22756,9 @@
       "f_squeeze": 0.3095,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "FSK",
@@ -23081,7 +22821,9 @@
       "f_squeeze": 0.3885,
       "f_quality": 0.2449
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "HBM",
@@ -23143,7 +22885,9 @@
       "f_squeeze": 0.207,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LMT",
@@ -23206,7 +22950,9 @@
       "f_squeeze": 0.2543,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "BA",
@@ -23269,7 +23015,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ABR",
@@ -23331,7 +23079,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "JACK",
@@ -23394,7 +23144,9 @@
       "f_squeeze": 0.7616,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "MRVL",
@@ -23456,7 +23208,9 @@
       "f_squeeze": 0.2913,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "RKLB",
@@ -23518,7 +23272,9 @@
       "f_squeeze": 0.3185,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NKE",
@@ -23581,7 +23337,9 @@
       "f_squeeze": 0.354,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LLY",
@@ -23644,7 +23402,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "SLS",
@@ -23705,7 +23465,9 @@
       "f_squeeze": 0.6696,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "GLW",
@@ -23768,7 +23530,9 @@
       "f_squeeze": 0.2729,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ASTS",
@@ -23831,7 +23595,9 @@
       "f_squeeze": 0.6107,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ADPT",
@@ -23893,7 +23659,9 @@
       "f_squeeze": 0.2355,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AVAV",
@@ -23955,7 +23723,9 @@
       "f_squeeze": 0.6107,
       "f_quality": 0.5005
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "WDC",
@@ -24018,7 +23788,9 @@
       "f_squeeze": 0.3095,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AVGO",
@@ -24080,7 +23852,9 @@
       "f_squeeze": 0.226,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "REGN",
@@ -24143,7 +23917,9 @@
       "f_squeeze": 0.2913,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NVDA",
@@ -24205,7 +23981,9 @@
       "f_squeeze": 0.226,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ADSK",
@@ -24267,7 +24045,9 @@
       "f_squeeze": 0.3095,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NFLX",
@@ -24329,7 +24109,9 @@
       "f_squeeze": 0.2821,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "SMCI",
@@ -24391,7 +24173,9 @@
       "f_squeeze": 0.585,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "MSFT",
@@ -24453,7 +24237,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "UI",
@@ -24505,7 +24291,9 @@
       "f_squeeze": 0.585,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "TOMZ",
@@ -24558,7 +24346,9 @@
       "f_squeeze": 0.1781,
       "f_quality": 0.3799
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "TSLA",
@@ -24620,7 +24410,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "PLTR",
@@ -24682,7 +24474,9 @@
       "f_squeeze": 0.2821,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "IRDM",
@@ -24744,7 +24538,9 @@
       "f_squeeze": 0.4621,
       "f_quality": 0.537
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ABVX",
@@ -24806,7 +24602,9 @@
       "f_squeeze": 0.4621,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "TSM",
@@ -24868,7 +24666,9 @@
       "f_squeeze": 0.0599,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "SOXL",
@@ -24922,7 +24722,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.4621
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "MSTR",
@@ -24984,7 +24786,9 @@
       "f_squeeze": 0.4699,
       "f_quality": 0.5005
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CRMT",
@@ -25038,7 +24842,9 @@
       "f_squeeze": 0.6911,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CRM",
@@ -25101,7 +24907,9 @@
       "f_squeeze": 0.2913,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "TECH",
@@ -25163,7 +24971,9 @@
       "f_squeeze": 0.5581,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ASPI",
@@ -25225,7 +25035,9 @@
       "f_squeeze": 0.6291,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "BB",
@@ -25288,7 +25100,9 @@
       "f_squeeze": 0.3275,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AAPL",
@@ -25351,7 +25165,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "MOBI",
@@ -25403,7 +25219,9 @@
       "f_squeeze": 0.4854,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "SPCX",
@@ -25463,7 +25281,9 @@
       "f_squeeze": 0.01,
       "f_quality": 0.3364
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NCLH",
@@ -25526,7 +25346,9 @@
       "f_squeeze": 0.6291,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "DMLP",
@@ -25586,7 +25408,9 @@
       "f_squeeze": 0.4136,
       "f_quality": 0.6911
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ALX",
@@ -25638,7 +25462,9 @@
       "f_squeeze": 0.664,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CTVA",
@@ -25700,7 +25526,9 @@
       "f_squeeze": 0.3364,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AADX",
@@ -25760,7 +25588,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.3364
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LTC",
@@ -25823,7 +25653,9 @@
       "f_squeeze": 0.3714,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "DRI",
@@ -25885,7 +25717,9 @@
       "f_squeeze": 0.4777,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AGMB",
@@ -25936,7 +25770,9 @@
       "f_squeeze": 0.5511,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ADC",
@@ -25999,7 +25835,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CAVA",
@@ -26062,7 +25900,9 @@
       "f_squeeze": 0.508,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "HOOD",
@@ -26124,7 +25964,9 @@
       "f_squeeze": 0.1489,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ARDT",
@@ -26186,7 +26028,9 @@
       "f_squeeze": 0.6231,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "QNT",
@@ -26247,7 +26091,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ECL",
@@ -26309,7 +26155,9 @@
       "f_squeeze": 0.2355,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NVRI",
@@ -26370,7 +26218,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ONT",
@@ -26431,7 +26281,9 @@
       "f_squeeze": 0.5717,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "SSMR",
@@ -26482,7 +26334,9 @@
       "f_squeeze": 0.226,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "EXE",
@@ -26544,7 +26398,9 @@
       "f_squeeze": 0.2821,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "QQQ",
@@ -26598,7 +26454,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.4621
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "FISV",
@@ -26655,7 +26513,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.537
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "GDC",
@@ -27413,6 +27273,68 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.6527,
       "f_quality": 0.3799
+    },
+    "done": []
+  },
+  {
+    "ticker": "CRWD",
+    "day": "2026-06-30",
+    "ts": 1782782251.0307572,
+    "entry": 742.5599975585938,
+    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_form4",
+      "google_news"
+    ],
+    "feat": {
+      "independence": 0.4,
+      "news_events": 1.0,
+      "opt_bias": 0.05,
+      "tech_bias": 0.0,
+      "squeeze": 0.28,
+      "quality": 0.35,
+      "analyst_conv": 0.7,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.27999999999999997,
+      "opt_x_tech": 0.0,
+      "sqz_x_filing": 0.28,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.0,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.8397,
+      "t_near_high": 0.0,
+      "o_implied_move": 0.9999,
+      "o_atm_iv": 0.5601,
+      "o_pcr_vol": 0.585,
+      "o_pcr_oi": 0.7616,
+      "o_skew": 0.9998,
+      "o_unusual_calls": 1.0,
+      "o_unusual_puts": 1.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.8243,
+      "o_bias": 0.05,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0308,
+      "f_days_to_cover": 0.9661,
+      "f_short_change": 0.028,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": -0.006,
+      "f_rev_growth": 0.2506,
+      "f_target_upside": -0.9992,
+      "f_squeeze": 0.2729,
+      "f_quality": 0.3364
     },
     "done": []
   }
