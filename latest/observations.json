@@ -179,60 +179,6 @@
     ]
   },
   {
-    "ticker": "DLTR",
-    "day": "2026-06-25",
-    "ts": 1782405848.806464,
-    "entry": 117.16999816894531,
-    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_form4",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": -0.25,
-      "squeeze": 0.42,
-      "quality": 0.95,
-      "analyst_conv": 0.76,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "AMD",
-    "day": "2026-06-25",
-    "ts": 1782406154.7189407,
-    "entry": 524.3499755859375,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "apewisdom",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 0.6,
-      "opt_bias": 0.3,
-      "tech_bias": 0.25,
-      "squeeze": 0.25,
-      "quality": 0.95,
-      "analyst_conv": 1.0,
-      "is_filing": 0.0,
-      "is_options": 1.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "ADPT",
     "day": "2026-06-25",
     "ts": 1782406312.634947,
@@ -32200,7 +32146,9 @@
       "f_squeeze": 0.4854,
       "f_quality": 0.05
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "EHGO",
@@ -32250,7 +32198,9 @@
       "f_squeeze": 0.3885,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "VRDN",
