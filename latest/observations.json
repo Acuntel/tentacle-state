@@ -206,143 +206,6 @@
     ]
   },
   {
-    "ticker": "APD",
-    "day": "2026-06-25",
-    "ts": 1782410610.37705,
-    "entry": 280.57000732421875,
-    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "newswire"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": 0.2,
-      "tech_bias": 0.1,
-      "squeeze": 0.1,
-      "quality": 0.95,
-      "analyst_conv": 0.76,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "CBAT",
-    "day": "2026-06-25",
-    "ts": 1782410690.2412362,
-    "entry": 0.6417999863624573,
-    "sig": "mna_target|filing+news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "sec_fulltext",
-      "stocktwits"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": -0.15,
-      "squeeze": 0.19,
-      "quality": 0.55,
-      "analyst_conv": 0.56,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "BOLD",
-    "day": "2026-06-25",
-    "ts": 1782410729.5360417,
-    "entry": 2.4749999046325684,
-    "sig": "mna_target|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "sec_fulltext"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": -0.25,
-      "squeeze": 0.15,
-      "quality": 0.3,
-      "analyst_conv": 0.76,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "HOOD",
-    "day": "2026-06-25",
-    "ts": 1782410775.0371187,
-    "entry": 94.41999816894531,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "apewisdom",
-      "google_news",
-      "stocktwits"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 1.0,
-      "opt_bias": 0.25,
-      "tech_bias": 0.25,
-      "squeeze": 0.29,
-      "quality": 0.95,
-      "analyst_conv": 1.0,
-      "is_filing": 0.0,
-      "is_options": 1.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "RITA",
-    "day": "2026-06-25",
-    "ts": 1782410822.7508862,
-    "entry": 21.165700912475586,
-    "sig": "gov_contract|news+regulatory|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "nasdaq_halts"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": 0.5,
-      "squeeze": 0.0,
-      "quality": 0.5,
-      "analyst_conv": 0.94,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "RHI",
     "day": "2026-06-25",
     "ts": 1782411302.6441407,
@@ -31941,5 +31804,165 @@
     "done": [
       1.0
     ]
+  },
+  {
+    "ticker": "SMG",
+    "day": "2026-06-30",
+    "ts": 1782841596.3658957,
+    "entry": 67.45999908447266,
+    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_form4",
+      "google_news"
+    ],
+    "feat": {
+      "independence": 0.6,
+      "news_events": 0.4,
+      "opt_bias": -0.15,
+      "tech_bias": -0.25,
+      "squeeze": 0.78,
+      "quality": 0.8,
+      "analyst_conv": 0.75,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.44999999999999996,
+      "opt_x_tech": 0.0375,
+      "sqz_x_filing": 0.78,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": -0.2449,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.1877,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.1916,
+      "o_pcr_vol": 0.6231,
+      "o_pcr_oi": 0.5915,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.4301,
+      "o_bias": -0.1489,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1281,
+      "f_days_to_cover": 1.0,
+      "f_short_change": 0.0768,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0319,
+      "f_rev_growth": 0.05,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.6527,
+      "f_quality": 0.664
+    },
+    "done": []
+  },
+  {
+    "ticker": "HPNN",
+    "day": "2026-06-30",
+    "ts": 1782842124.514586,
+    "entry": 0.000699999975040555,
+    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 0.4,
+      "news_events": 0.2,
+      "opt_bias": 0.0,
+      "tech_bias": -0.15,
+      "squeeze": 0.0,
+      "quality": 0.45,
+      "analyst_conv": 0.51,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.20400000000000001,
+      "opt_x_tech": -0.0,
+      "sqz_x_filing": 0.0,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": -0.1489,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.0,
+      "t_near_high": 0.0,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_profit_margin": -0.1692,
+      "f_rev_growth": 1.0,
+      "f_squeeze": 0.0,
+      "f_quality": 0.4219
+    },
+    "done": []
+  },
+  {
+    "ticker": "CELZ",
+    "day": "2026-06-30",
+    "ts": 1782843137.2563474,
+    "entry": 2.2806999683380127,
+    "sig": "unknown|filing+regulatory|rates_down|risk_on|growth_up",
+    "sources": [
+      "nasdaq_halts",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 0.6,
+      "news_events": 0.2,
+      "opt_bias": 0.0,
+      "tech_bias": 0.6,
+      "squeeze": 0.48,
+      "quality": 0.3,
+      "analyst_conv": 0.89,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.534,
+      "opt_x_tech": 0.0,
+      "sqz_x_filing": 0.48,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 1.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.537,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 1.0,
+      "t_near_high": 0.0,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0424,
+      "f_days_to_cover": 0.9962,
+      "f_short_change": 0.1567,
+      "f_fwd_pe": -0.9081,
+      "f_profit_margin": 0.0,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.4462,
+      "f_quality": 0.2913
+    },
+    "done": []
   }
 ]
