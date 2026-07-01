@@ -19732,7 +19732,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -19797,7 +19798,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -19851,7 +19853,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -19900,7 +19903,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -19963,7 +19967,8 @@
       "f_quality": 0.05
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -20015,7 +20020,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -34375,7 +34381,9 @@
       "f_squeeze": 0.3275,
       "f_quality": 0.2449
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ADIL",
@@ -34426,7 +34434,9 @@
       "f_squeeze": 0.6107,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CHH",
@@ -34488,7 +34498,9 @@
       "f_squeeze": 0.7616,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "TENB",
@@ -34548,6 +34560,120 @@
       "f_target_upside": -1.0,
       "f_squeeze": 0.3627,
       "f_quality": 0.5005
+    },
+    "done": []
+  },
+  {
+    "ticker": "RMBI",
+    "day": "2026-07-01",
+    "ts": 1782919171.523887,
+    "entry": 15.932499885559082,
+    "sig": "mna_target|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_8k",
+      "google_news",
+      "sec_fulltext",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 1.0,
+      "news_events": 1.0,
+      "opt_bias": 0.0,
+      "tech_bias": 0.25,
+      "squeeze": 0.27,
+      "quality": 0.85,
+      "analyst_conv": 0.88,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.88,
+      "opt_x_tech": 0.0,
+      "sqz_x_filing": 0.27,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.4,
+      "t_bias": 0.2449,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.1293,
+      "t_near_high": 0.0,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0178,
+      "f_days_to_cover": 0.9946,
+      "f_short_change": -0.1361,
+      "f_profit_margin": 0.252,
+      "f_rev_growth": 0.1263,
+      "f_squeeze": 0.2636,
+      "f_quality": 0.6911
+    },
+    "done": []
+  },
+  {
+    "ticker": "BXP",
+    "day": "2026-07-01",
+    "ts": 1782919844.6396818,
+    "entry": 67.43000030517578,
+    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_form4",
+      "google_news"
+    ],
+    "feat": {
+      "independence": 1.2,
+      "news_events": 1.0,
+      "opt_bias": 0.25,
+      "tech_bias": 0.25,
+      "squeeze": 0.6,
+      "quality": 0.8,
+      "analyst_conv": 0.89,
+      "is_filing": 1.0,
+      "is_options": 1.0,
+      "is_price": 1.0,
+      "indep_x_conv": 1.068,
+      "opt_x_tech": 0.0625,
+      "sqz_x_filing": 0.6,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.2449,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.1781,
+      "t_near_high": 0.7616,
+      "o_implied_move": 0.9997,
+      "o_atm_iv": 0.354,
+      "o_pcr_vol": 0.03,
+      "o_pcr_oi": 0.7739,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.9951,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.8591,
+      "o_bias": 0.2449,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0949,
+      "f_days_to_cover": 1.0,
+      "f_short_change": 0.029,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.1001,
+      "f_rev_growth": 0.006,
+      "f_target_upside": 0.9973,
+      "f_squeeze": 0.537,
+      "f_quality": 0.664
     },
     "done": []
   }
