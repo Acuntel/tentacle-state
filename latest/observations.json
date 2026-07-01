@@ -287,385 +287,6 @@
     ]
   },
   {
-    "ticker": "TTAN",
-    "day": "2026-06-26",
-    "ts": 1782447320.8186595,
-    "entry": 63.40999984741211,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": -0.15,
-      "squeeze": 0.46,
-      "quality": 0.55,
-      "analyst_conv": 0.45,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "TTEC",
-    "day": "2026-06-26",
-    "ts": 1782447320.8186886,
-    "entry": 2.059999942779541,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 0.8,
-      "opt_bias": -0.2,
-      "tech_bias": -0.65,
-      "squeeze": 0.9,
-      "quality": 0.25,
-      "analyst_conv": 0.56,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "HFFG",
-    "day": "2026-06-26",
-    "ts": 1782447367.3842015,
-    "entry": 1.7899999618530273,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 0.2,
-      "opt_bias": 0.2,
-      "tech_bias": 0.45,
-      "squeeze": 0.41,
-      "quality": 0.4,
-      "analyst_conv": 0.94,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "TUSK",
-    "day": "2026-06-26",
-    "ts": 1782447367.3843598,
-    "entry": 2.7149999141693115,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": -0.2,
-      "tech_bias": -0.2,
-      "squeeze": 0.44,
-      "quality": 0.85,
-      "analyst_conv": 0.45,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "TVGN",
-    "day": "2026-06-26",
-    "ts": 1782447418.1455176,
-    "entry": 9.720000267028809,
-    "sig": "mna_target|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": 0.4,
-      "squeeze": 0.56,
-      "quality": 0.3,
-      "analyst_conv": 1.0,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "TVRD",
-    "day": "2026-06-26",
-    "ts": 1782447418.1455805,
-    "entry": 2.3550000190734863,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": 0.55,
-      "squeeze": 0.43,
-      "quality": 0.3,
-      "analyst_conv": 0.94,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "TWIN",
-    "day": "2026-06-26",
-    "ts": 1782447474.460482,
-    "entry": 23.15999984741211,
-    "sig": "gov_contract|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.2,
-      "tech_bias": 0.25,
-      "squeeze": 0.34,
-      "quality": 0.95,
-      "analyst_conv": 0.94,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "TZOO",
-    "day": "2026-06-26",
-    "ts": 1782447520.3964176,
-    "entry": 10.84000015258789,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": 0.6,
-      "squeeze": 0.51,
-      "quality": 0.8,
-      "analyst_conv": 1.0,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "UNCY",
-    "day": "2026-06-26",
-    "ts": 1782447731.1824768,
-    "entry": 8.204999923706055,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 1.0,
-      "opt_bias": -0.2,
-      "tech_bias": 0.25,
-      "squeeze": 0.7,
-      "quality": 0.4,
-      "analyst_conv": 1.0,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "UNB",
-    "day": "2026-06-26",
-    "ts": 1782447731.1825302,
-    "entry": 25.934999465942383,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": 0.35,
-      "squeeze": 0.45,
-      "quality": 0.85,
-      "analyst_conv": 0.94,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "CVGI",
-    "day": "2026-06-26",
-    "ts": 1782447877.844611,
-    "entry": 4.739999771118164,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 0.2,
-      "opt_bias": 0.2,
-      "tech_bias": -0.15,
-      "squeeze": 0.37,
-      "quality": 0.2,
-      "analyst_conv": 0.45,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "ASYS",
-    "day": "2026-06-26",
-    "ts": 1782448169.0776489,
-    "entry": 20.68000030517578,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "reddit"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 0.2,
-      "opt_bias": 0.1,
-      "tech_bias": 0.65,
-      "squeeze": 0.26,
-      "quality": 0.95,
-      "analyst_conv": 0.94,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "NUVB",
-    "day": "2026-06-26",
-    "ts": 1782448429.5396175,
-    "entry": 5.806454181671143,
-    "sig": "unknown|filing+news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "newswire",
-      "stocktwits"
-    ],
-    "feat": {
-      "independence": 1.0,
-      "news_events": 1.0,
-      "opt_bias": 0.2,
-      "tech_bias": 0.25,
-      "squeeze": 0.9,
-      "quality": 0.45,
-      "analyst_conv": 1.0,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "VRAX",
-    "day": "2026-06-26",
-    "ts": 1782448479.3416445,
-    "entry": 0.1371999979019165,
-    "sig": "unknown|news+regulatory|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "nasdaq_halts"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 1.0,
-      "opt_bias": 0.0,
-      "tech_bias": 0.5,
-      "squeeze": 0.68,
-      "quality": 0.15,
-      "analyst_conv": 1.0,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "VIVO",
     "day": "2026-06-26",
     "ts": 1782449590.4740734,
@@ -14578,7 +14199,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -14630,7 +14252,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -14693,7 +14316,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -14757,7 +14381,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -14820,7 +14445,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -14871,7 +14497,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -14935,7 +14562,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -14999,7 +14627,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -15063,7 +14692,8 @@
       "f_quality": 0.6351
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29889,5 +29519,66 @@
     "done": [
       1.0
     ]
+  },
+  {
+    "ticker": "DKNG",
+    "day": "2026-07-01",
+    "ts": 1782881164.8681996,
+    "entry": 25.270000457763672,
+    "sig": "unknown|demand+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "appstore",
+      "google_news"
+    ],
+    "feat": {
+      "independence": 0.6,
+      "news_events": 1.0,
+      "opt_bias": 0.5,
+      "tech_bias": 0.15,
+      "squeeze": 0.44,
+      "quality": 0.95,
+      "analyst_conv": 0.78,
+      "is_filing": 0.0,
+      "is_options": 1.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.46799999999999997,
+      "opt_x_tech": 0.075,
+      "sqz_x_filing": 0.0,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 1.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.1489,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.6805,
+      "t_near_high": 0.0,
+      "o_implied_move": 0.9998,
+      "o_atm_iv": 0.031,
+      "o_pcr_vol": 0.4542,
+      "o_skew": -0.9988,
+      "o_unusual_calls": 0.9999,
+      "o_unusual_puts": 0.9951,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.04,
+      "o_bias": 0.4621,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0837,
+      "f_days_to_cover": 0.9953,
+      "f_short_change": 0.042,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0093,
+      "f_rev_growth": 0.1664,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.4136,
+      "f_quality": 0.7398
+    },
+    "done": []
   }
 ]
