@@ -206,142 +206,6 @@
     ]
   },
   {
-    "ticker": "MRK",
-    "day": "2026-06-26",
-    "ts": 1782433087.3603628,
-    "entry": 125.47000122070312,
-    "sig": "fda_approval|news+regulatory|rates_down|risk_on|growth_up",
-    "sources": [
-      "fda",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 1.0,
-      "opt_bias": 0.25,
-      "tech_bias": 0.25,
-      "squeeze": 0.26,
-      "quality": 0.8,
-      "analyst_conv": 1.0,
-      "is_filing": 0.0,
-      "is_options": 1.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "HON",
-    "day": "2026-06-26",
-    "ts": 1782433087.360379,
-    "entry": 231.33999633789062,
-    "sig": "gov_contract|news+regulatory+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "gov_contract",
-      "stocktwits"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 1.0,
-      "opt_bias": -0.35,
-      "tech_bias": 0.25,
-      "squeeze": 0.29,
-      "quality": 0.8,
-      "analyst_conv": 0.6,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 1.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "LMT",
-    "day": "2026-06-26",
-    "ts": 1782433087.363028,
-    "entry": 505.0299987792969,
-    "sig": "gov_contract|news+regulatory|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "gov_contract"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": -0.15,
-      "tech_bias": -0.15,
-      "squeeze": 0.23,
-      "quality": 0.8,
-      "analyst_conv": 0.45,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "BA",
-    "day": "2026-06-26",
-    "ts": 1782433087.7851226,
-    "entry": 218.22000122070312,
-    "sig": "gov_contract|news+regulatory|rates_down|risk_on|growth_up",
-    "sources": [
-      "google_news",
-      "gov_contract"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": -0.15,
-      "tech_bias": -0.4,
-      "squeeze": 0.0,
-      "quality": 0.75,
-      "analyst_conv": 0.45,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "GO",
-    "day": "2026-06-26",
-    "ts": 1782433087.7851582,
-    "entry": 9.529999732971191,
-    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_form4",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.6,
-      "news_events": 0.4,
-      "opt_bias": -0.35,
-      "tech_bias": 0.0,
-      "squeeze": 0.83,
-      "quality": 0.4,
-      "analyst_conv": 0.56,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "KMX",
     "day": "2026-06-26",
     "ts": 1782433242.5728335,
@@ -17100,7 +16964,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -17165,7 +17030,8 @@
       "f_quality": 0.6351
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -17229,7 +17095,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -17293,7 +17160,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -17356,7 +17224,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -17420,7 +17289,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -33588,7 +33458,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.2165,
       "f_quality": 0.5717
-    }
+    },
+    "done": []
   },
   {
     "ticker": "TNXP",
@@ -33649,7 +33520,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.7259,
       "f_quality": 0.4219
-    }
+    },
+    "done": []
   },
   {
     "ticker": "HOOD",
@@ -33710,6 +33582,7 @@
       "f_target_upside": 0.9996,
       "f_squeeze": 0.1489,
       "f_quality": 0.7398
-    }
+    },
+    "done": []
   }
 ]
