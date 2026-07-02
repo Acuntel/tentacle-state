@@ -29245,7 +29245,8 @@
       "f_quality": 0.3364
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29309,7 +29310,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29372,7 +29374,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29435,7 +29438,8 @@
       "f_quality": 0.6351
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29498,7 +29502,8 @@
       "f_quality": 0.3364
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29561,7 +29566,8 @@
       "f_quality": 0.664
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29624,7 +29630,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29687,7 +29694,8 @@
       "f_quality": 0.6351
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29750,7 +29758,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29813,7 +29822,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29876,7 +29886,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -29939,7 +29950,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -30002,7 +30014,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -30065,7 +30078,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -30128,7 +30142,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -30191,7 +30206,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -30254,7 +30270,8 @@
       "f_quality": 0.6351
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -30316,7 +30333,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -52972,7 +52990,9 @@
       "f_squeeze": 0.3452,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "MDBH",
@@ -53022,7 +53042,9 @@
       "f_squeeze": 0.3004,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "FIEE",
@@ -53071,6 +53093,128 @@
       "f_rev_growth": 1.0,
       "f_squeeze": 0.1781,
       "f_quality": 0.6911
+    },
+    "done": []
+  },
+  {
+    "ticker": "ADMA",
+    "day": "2026-07-02",
+    "ts": 1782977025.8510385,
+    "entry": 8.630000114440918,
+    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 1.0,
+      "news_events": 1.0,
+      "opt_bias": -0.15,
+      "tech_bias": 0.2,
+      "squeeze": 0.59,
+      "quality": 0.95,
+      "analyst_conv": 0.95,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.95,
+      "opt_x_tech": -0.03,
+      "sqz_x_filing": 0.59,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.1974,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.6696,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.031,
+      "o_pcr_vol": 0.6805,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 0.7616,
+      "o_iv_rv": 0.0898,
+      "o_bias": -0.1489,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1118,
+      "f_days_to_cover": 1.0,
+      "f_short_change": 0.0639,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.3134,
+      "f_rev_growth": 0.1577,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.5299,
+      "f_quality": 0.7398
+    },
+    "done": []
+  },
+  {
+    "ticker": "ASPI",
+    "day": "2026-07-02",
+    "ts": 1782977356.460364,
+    "entry": 6.175000190734863,
+    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_form4",
+      "google_news"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 0.4,
+      "opt_bias": 0.05,
+      "tech_bias": 0.35,
+      "squeeze": 0.74,
+      "quality": 0.45,
+      "analyst_conv": 0.96,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.768,
+      "opt_x_tech": 0.017499999999999998,
+      "sqz_x_filing": 0.74,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.3364,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.6411,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.1244,
+      "o_pcr_vol": 0.3275,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.964,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 0.7616,
+      "o_iv_rv": 0.1293,
+      "o_bias": 0.05,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.2017,
+      "f_days_to_cover": 0.9987,
+      "f_short_change": 0.0,
+      "f_fwd_pe": -1.0,
+      "f_profit_margin": 0.0,
+      "f_rev_growth": 0.9925,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.6291,
+      "f_quality": 0.4219
     },
     "done": []
   }
