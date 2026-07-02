@@ -39552,7 +39552,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -39616,7 +39617,8 @@
       "f_quality": 0.3364
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -39680,7 +39682,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -39744,7 +39747,8 @@
       "f_quality": 0.664
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -39808,7 +39812,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -39872,7 +39877,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -39936,7 +39942,8 @@
       "f_quality": 0.664
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -40000,7 +40007,8 @@
       "f_quality": 0.6351
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -40064,7 +40072,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -40127,7 +40136,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61417,7 +61427,9 @@
       "f_squeeze": 0.493,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AOS",
@@ -61479,7 +61491,9 @@
       "f_squeeze": 0.4777,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ARE",
@@ -61541,7 +61555,9 @@
       "f_squeeze": 0.1877,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "FIP",
@@ -61602,7 +61618,9 @@
       "f_squeeze": 0.6351,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "BTC",
@@ -61655,7 +61673,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.4621
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AIG",
@@ -61717,7 +61737,9 @@
       "f_squeeze": 0.2729,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "BSVN",
@@ -61771,7 +61793,9 @@
       "f_squeeze": 0.4219,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "DNTH",
@@ -61833,7 +61857,9 @@
       "f_squeeze": 0.6044,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ADI",
@@ -61895,7 +61921,9 @@
       "f_squeeze": 0.2729,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "DRTTF",
@@ -61946,7 +61974,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.3799
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ATO",
@@ -62008,7 +62038,9 @@
       "f_squeeze": 0.0997,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ADP",
@@ -62070,7 +62102,9 @@
       "f_squeeze": 0.2543,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CRCL",
@@ -62132,7 +62166,9 @@
       "f_squeeze": 0.4136,
       "f_quality": 0.5005
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LPSN",
@@ -62193,7 +62229,9 @@
       "f_squeeze": 0.4382,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "SOUNW",
@@ -62239,7 +62277,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ADCT",
@@ -62300,7 +62340,9 @@
       "f_squeeze": 0.3275,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CVNA",
@@ -62986,6 +63028,882 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.2449,
       "f_quality": 0.2913
-    }
+    },
+    "done": []
+  },
+  {
+    "ticker": "BMI",
+    "day": "2026-07-02",
+    "ts": 1783029762.110109,
+    "entry": 145.9199981689453,
+    "sig": "insider_cluster|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_form4",
+      "google_news",
+      "newswire",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 1.0,
+      "news_events": 1.0,
+      "opt_bias": 0.05,
+      "tech_bias": 0.0,
+      "squeeze": 1.0,
+      "quality": 0.65,
+      "analyst_conv": 0.93,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.93,
+      "opt_x_tech": 0.0,
+      "sqz_x_filing": 1.0,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.4,
+      "t_bias": 0.0,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.4699,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.4762,
+      "o_pcr_vol": 0.5784,
+      "o_pcr_oi": 0.3275,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.8337,
+      "o_bias": 0.05,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.2117,
+      "f_days_to_cover": 1.0,
+      "f_short_change": 0.045,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.1446,
+      "f_rev_growth": -0.0898,
+      "f_target_upside": 0.9959,
+      "f_squeeze": 0.7616,
+      "f_quality": 0.5717
+    },
+    "done": []
+  },
+  {
+    "ticker": "MTG",
+    "day": "2026-07-02",
+    "ts": 1783030039.5261512,
+    "entry": 28.225000381469727,
+    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": 0.3,
+      "tech_bias": -0.25,
+      "squeeze": 0.45,
+      "quality": 0.65,
+      "analyst_conv": 0.93,
+      "is_filing": 1.0,
+      "is_options": 1.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.7440000000000001,
+      "opt_x_tech": -0.075,
+      "sqz_x_filing": 0.45,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": -0.2449,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.585,
+      "t_near_high": 0.7616,
+      "o_implied_move": 0.5154,
+      "o_atm_iv": 0.5587,
+      "o_pcr_vol": 0.2355,
+      "o_pcr_oi": 1.0,
+      "o_skew": -1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.9995,
+      "o_bias": 0.2913,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0646,
+      "f_days_to_cover": 1.0,
+      "f_short_change": 0.2289,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.5344,
+      "f_rev_growth": -0.03,
+      "f_target_upside": 0.9217,
+      "f_squeeze": 0.4219,
+      "f_quality": 0.5717
+    },
+    "done": []
+  },
+  {
+    "ticker": "JAZZ",
+    "day": "2026-07-02",
+    "ts": 1783030039.5262034,
+    "entry": 243.27000427246094,
+    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_form4",
+      "google_news"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 0.6,
+      "opt_bias": -0.35,
+      "tech_bias": 0.25,
+      "squeeze": 0.27,
+      "quality": 0.95,
+      "analyst_conv": 0.69,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.5519999999999999,
+      "opt_x_tech": -0.0875,
+      "sqz_x_filing": 0.27,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.2449,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.6751,
+      "t_near_high": 0.7616,
+      "o_implied_move": 0.9998,
+      "o_atm_iv": 0.4235,
+      "o_pcr_vol": 0.881,
+      "o_pcr_oi": 0.4621,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.9051,
+      "o_bias": -0.3364,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0646,
+      "f_days_to_cover": 0.9996,
+      "f_short_change": -0.1849,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0066,
+      "f_rev_growth": 0.1887,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.2636,
+      "f_quality": 0.7398
+    },
+    "done": []
+  },
+  {
+    "ticker": "ELF",
+    "day": "2026-07-02",
+    "ts": 1783030178.5963402,
+    "entry": 76.43000030517578,
+    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_form4",
+      "google_news"
+    ],
+    "feat": {
+      "independence": 0.6,
+      "news_events": 0.4,
+      "opt_bias": 0.05,
+      "tech_bias": -0.25,
+      "squeeze": 0.86,
+      "quality": 0.55,
+      "analyst_conv": 0.89,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.534,
+      "opt_x_tech": -0.0125,
+      "sqz_x_filing": 0.86,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": -0.2449,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.7398,
+      "t_near_high": 0.0,
+      "o_implied_move": 0.9823,
+      "o_atm_iv": 0.49,
+      "o_pcr_vol": 0.4777,
+      "o_pcr_oi": 0.3627,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.7306,
+      "o_bias": 0.05,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.2159,
+      "f_days_to_cover": 0.9823,
+      "f_short_change": 0.226,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": -0.0023,
+      "f_rev_growth": 0.3373,
+      "f_target_upside": -1.0,
+      "f_squeeze": 0.6963,
+      "f_quality": 0.5005
+    },
+    "done": []
+  },
+  {
+    "ticker": "WSBC",
+    "day": "2026-07-02",
+    "ts": 1783030178.5963602,
+    "entry": 39.650001525878906,
+    "sig": "unknown|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": 0.2,
+      "tech_bias": 0.0,
+      "squeeze": 0.35,
+      "quality": 0.95,
+      "analyst_conv": 0.94,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.752,
+      "opt_x_tech": 0.0,
+      "sqz_x_filing": 0.35,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": 0.0,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.4542,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.6618,
+      "o_pcr_vol": 0.1391,
+      "o_pcr_oi": 0.5005,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.9987,
+      "o_bias": 0.1974,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0374,
+      "f_days_to_cover": 0.9996,
+      "f_short_change": 0.4684,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.2996,
+      "f_rev_growth": 0.7921,
+      "f_target_upside": 0.7616,
+      "f_squeeze": 0.3364,
+      "f_quality": 0.7398
+    },
+    "done": []
+  },
+  {
+    "ticker": "HBCP",
+    "day": "2026-07-02",
+    "ts": 1783030178.5963697,
+    "entry": 69.25,
+    "sig": "unknown|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": 0.2,
+      "tech_bias": 0.0,
+      "squeeze": 0.25,
+      "quality": 0.95,
+      "analyst_conv": 0.93,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.7440000000000001,
+      "opt_x_tech": 0.0,
+      "sqz_x_filing": 0.25,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": 0.0,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.811,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.7599,
+      "o_pcr_vol": 0.1974,
+      "o_pcr_oi": 0.2636,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.9995,
+      "o_bias": 0.1974,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0182,
+      "f_days_to_cover": 0.9721,
+      "f_short_change": -0.05,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.2991,
+      "f_rev_growth": 0.0549,
+      "f_target_upside": -0.9217,
+      "f_squeeze": 0.2449,
+      "f_quality": 0.7398
+    },
+    "done": []
+  },
+  {
+    "ticker": "IRTC",
+    "day": "2026-07-02",
+    "ts": 1783030361.2403939,
+    "entry": 126.43499755859375,
+    "sig": "unknown|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 1.0,
+      "news_events": 1.0,
+      "opt_bias": 0.05,
+      "tech_bias": 0.5,
+      "squeeze": 0.51,
+      "quality": 0.35,
+      "analyst_conv": 0.96,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.96,
+      "opt_x_tech": 0.025,
+      "sqz_x_filing": 0.51,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": 0.4621,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.7211,
+      "t_near_high": 0.7616,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.5198,
+      "o_pcr_vol": 0.5511,
+      "o_pcr_oi": 0.7211,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.8483,
+      "o_bias": 0.05,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0898,
+      "f_days_to_cover": 1.0,
+      "f_short_change": -0.0549,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": -0.0353,
+      "f_rev_growth": 0.2515,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.4699,
+      "f_quality": 0.3364
+    },
+    "done": []
+  },
+  {
+    "ticker": "DKS",
+    "day": "2026-07-02",
+    "ts": 1783030361.2404687,
+    "entry": 236.22999572753906,
+    "sig": "unknown|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 1.2,
+      "news_events": 1.0,
+      "opt_bias": -0.35,
+      "tech_bias": 0.5,
+      "squeeze": 0.65,
+      "quality": 0.95,
+      "analyst_conv": 0.72,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.864,
+      "opt_x_tech": -0.175,
+      "sqz_x_filing": 0.65,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": 0.4621,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.5784,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.3978,
+      "o_pcr_vol": 0.9952,
+      "o_pcr_oi": 0.6805,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.8483,
+      "o_bias": -0.3364,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1462,
+      "f_days_to_cover": 1.0,
+      "f_short_change": 0.1086,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0471,
+      "f_rev_growth": 0.556,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.5717,
+      "f_quality": 0.7398
+    },
+    "done": []
+  },
+  {
+    "ticker": "PFSI",
+    "day": "2026-07-02",
+    "ts": 1783030506.1638756,
+    "entry": 83.5530014038086,
+    "sig": "earnings_beat|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 1.0,
+      "news_events": 1.0,
+      "opt_bias": -0.2,
+      "tech_bias": -0.05,
+      "squeeze": 0.6,
+      "quality": 0.65,
+      "analyst_conv": 0.66,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.66,
+      "opt_x_tech": 0.010000000000000002,
+      "sqz_x_filing": 0.6,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": -0.05,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.6858,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.499,
+      "o_pcr_vol": 0.9554,
+      "o_pcr_oi": 0.0997,
+      "o_skew": -0.0997,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.9468,
+      "o_bias": -0.1974,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0772,
+      "f_days_to_cover": 0.9996,
+      "f_short_change": 0.1283,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.1516,
+      "f_rev_growth": -0.1645,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.537,
+      "f_quality": 0.5717
+    },
+    "done": []
+  },
+  {
+    "ticker": "BE",
+    "day": "2026-07-02",
+    "ts": 1783030506.1638975,
+    "entry": 271.07000732421875,
+    "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_form4",
+      "google_news"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 0.4,
+      "opt_bias": -0.2,
+      "tech_bias": -0.4,
+      "squeeze": 0.52,
+      "quality": 0.75,
+      "analyst_conv": 0.65,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.52,
+      "opt_x_tech": 0.08000000000000002,
+      "sqz_x_filing": 0.52,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": -0.3799,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.7895,
+      "t_near_high": 0.0,
+      "o_implied_move": 0.8565,
+      "o_atm_iv": 0.3986,
+      "o_pcr_vol": 0.9354,
+      "o_pcr_oi": 0.9674,
+      "o_skew": 0.664,
+      "o_unusual_calls": 1.0,
+      "o_unusual_puts": 1.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.3275,
+      "o_bias": -0.1974,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1192,
+      "f_days_to_cover": 0.9932,
+      "f_short_change": 0.027,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0025,
+      "f_rev_growth": 0.8627,
+      "f_target_upside": 0.9468,
+      "f_squeeze": 0.4777,
+      "f_quality": 0.6351
+    },
+    "done": []
+  },
+  {
+    "ticker": "BTU",
+    "day": "2026-07-02",
+    "ts": 1783030506.1639192,
+    "entry": 22.280000686645508,
+    "sig": "unknown|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": -0.35,
+      "tech_bias": 0.3,
+      "squeeze": 0.43,
+      "quality": 0.4,
+      "analyst_conv": 0.7,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.5599999999999999,
+      "opt_x_tech": -0.105,
+      "sqz_x_filing": 0.43,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": 0.2913,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.5784,
+      "t_near_high": 0.0,
+      "o_implied_move": 0.9757,
+      "o_atm_iv": 0.7163,
+      "o_pcr_vol": 0.9874,
+      "o_pcr_oi": 0.3627,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.9478,
+      "o_bias": -0.3364,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1402,
+      "f_days_to_cover": 0.9958,
+      "f_short_change": -0.1391,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": -0.0307,
+      "f_rev_growth": 0.039,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.4053,
+      "f_quality": 0.3799
+    },
+    "done": []
+  },
+  {
+    "ticker": "RWT",
+    "day": "2026-07-02",
+    "ts": 1783030705.7138412,
+    "entry": 4.46999979019165,
+    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 0.4,
+      "news_events": 1.0,
+      "opt_bias": -0.1,
+      "tech_bias": -0.2,
+      "squeeze": 0.0,
+      "quality": 0.25,
+      "analyst_conv": 0.55,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.22000000000000003,
+      "opt_x_tech": 0.020000000000000004,
+      "sqz_x_filing": 0.0,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": -0.1974,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.8511,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.7268,
+      "o_pcr_vol": 0.9866,
+      "o_pcr_oi": 0.2821,
+      "o_skew": -1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 0.9999,
+      "o_iv_rv": 0.9936,
+      "o_bias": -0.0997,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0001,
+      "f_days_to_cover": 0.01,
+      "f_short_change": -0.5198,
+      "f_fwd_pe": 0.9997,
+      "f_profit_margin": -0.4986,
+      "f_rev_growth": -0.1332,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.0,
+      "f_quality": 0.2449
+    },
+    "done": []
+  },
+  {
+    "ticker": "BRCB",
+    "day": "2026-07-02",
+    "ts": 1783030884.3120387,
+    "entry": 8.375,
+    "sig": "unknown|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 1.0,
+      "news_events": 1.0,
+      "opt_bias": -0.2,
+      "tech_bias": -0.3,
+      "squeeze": 0.5,
+      "quality": 0.95,
+      "analyst_conv": 0.66,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.66,
+      "opt_x_tech": 0.06,
+      "sqz_x_filing": 0.5,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": -0.2913,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.3885,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.8034,
+      "o_pcr_vol": 0.9186,
+      "o_pcr_oi": 0.7574,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.8787,
+      "o_bias": -0.1974,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0644,
+      "f_days_to_cover": 0.8854,
+      "f_short_change": 0.1381,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0015,
+      "f_rev_growth": 0.2327,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.4621,
+      "f_quality": 0.7398
+    },
+    "done": []
+  },
+  {
+    "ticker": "FIVN",
+    "day": "2026-07-02",
+    "ts": 1783031138.7044833,
+    "entry": 23.450000762939453,
+    "sig": "unknown|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 1.0,
+      "news_events": 1.0,
+      "opt_bias": 0.05,
+      "tech_bias": 0.5,
+      "squeeze": 0.32,
+      "quality": 0.95,
+      "analyst_conv": 0.96,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.96,
+      "opt_x_tech": 0.025,
+      "sqz_x_filing": 0.32,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": 0.4621,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.7574,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.6069,
+      "o_pcr_vol": 0.598,
+      "o_pcr_oi": 0.1974,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.0,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.811,
+      "o_bias": 0.05,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1019,
+      "f_days_to_cover": 0.9852,
+      "f_short_change": -0.243,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0487,
+      "f_rev_growth": 0.0917,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.3095,
+      "f_quality": 0.7398
+    },
+    "done": []
   }
 ]
