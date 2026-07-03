@@ -57877,7 +57877,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -57943,7 +57944,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -57997,7 +57999,8 @@
       "f_quality": 0.664
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58050,7 +58053,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58114,7 +58118,8 @@
       "f_quality": 0.664
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -75030,5 +75035,67 @@
     "done": [
       1.0
     ]
+  },
+  {
+    "ticker": "SMMT",
+    "day": "2026-07-03",
+    "ts": 1783094917.9269621,
+    "entry": 15.4399995803833,
+    "sig": "insider_cluster|filing+news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "edgar_form4",
+      "google_news",
+      "stocktwits"
+    ],
+    "feat": {
+      "independence": 1.0,
+      "news_events": 1.0,
+      "opt_bias": 0.25,
+      "tech_bias": -0.3,
+      "squeeze": 0.79,
+      "quality": 0.3,
+      "analyst_conv": 0.58,
+      "is_filing": 1.0,
+      "is_options": 1.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.58,
+      "opt_x_tech": -0.075,
+      "sqz_x_filing": 0.79,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.3,
+      "t_bias": -0.2913,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.7969,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.5622,
+      "o_pcr_vol": 0.1489,
+      "o_pcr_oi": 0.3364,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.9951,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.821,
+      "o_bias": 0.2449,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.2663,
+      "f_days_to_cover": 1.0,
+      "f_short_change": 0.2308,
+      "f_fwd_pe": -1.0,
+      "f_profit_margin": 0.0,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.6584,
+      "f_quality": 0.2913
+    },
+    "done": []
   }
 ]
