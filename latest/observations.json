@@ -58237,7 +58237,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58300,7 +58301,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58364,7 +58366,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58429,7 +58432,8 @@
       "f_quality": 0.2449
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58493,7 +58497,8 @@
       "f_quality": 0.664
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58534,7 +58539,8 @@
       "f_quality": 0.4621
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58598,7 +58604,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58662,7 +58669,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58704,7 +58712,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58752,7 +58761,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58806,7 +58816,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58869,7 +58880,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58924,7 +58936,8 @@
       "f_quality": 0.6911
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -58988,7 +59001,8 @@
       "f_quality": 0.2449
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -75097,6 +75111,197 @@
       "f_squeeze": 0.6584,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
+  },
+  {
+    "ticker": "GM",
+    "day": "2026-07-03",
+    "ts": 1783096994.320559,
+    "entry": 76.0,
+    "sig": "unknown|filing+news|risk_on",
+    "sources": [
+      "google_news",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 0.6,
+      "news_events": 0.4,
+      "opt_bias": 0.2,
+      "tech_bias": 0.1,
+      "squeeze": 0.28,
+      "quality": 0.65,
+      "analyst_conv": 0.78,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.46799999999999997,
+      "opt_x_tech": 0.020000000000000004,
+      "sqz_x_filing": 0.28,
+      "risk_on": 1.0,
+      "rates_down": 0.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.0997,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.585,
+      "t_near_high": 0.0,
+      "o_implied_move": 0.9992,
+      "o_atm_iv": 0.3319,
+      "o_pcr_vol": 0.6696,
+      "o_pcr_oi": 0.7616,
+      "o_skew": -0.7163,
+      "o_unusual_calls": 0.9951,
+      "o_unusual_puts": 0.7616,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.8076,
+      "o_bias": 0.1974,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0253,
+      "f_days_to_cover": 0.9928,
+      "f_short_change": 0.043,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0138,
+      "f_rev_growth": -0.009,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.2729,
+      "f_quality": 0.5717
+    },
+    "done": [
+      1.0
+    ]
+  },
+  {
+    "ticker": "NKE",
+    "day": "2026-07-03",
+    "ts": 1783097436.4813728,
+    "entry": 44.07500076293945,
+    "sig": "unknown|filing+news|risk_on",
+    "sources": [
+      "google_news",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": 0.4,
+      "tech_bias": 0.0,
+      "squeeze": 0.37,
+      "quality": 0.65,
+      "analyst_conv": 0.83,
+      "is_filing": 1.0,
+      "is_options": 1.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.664,
+      "opt_x_tech": 0.0,
+      "sqz_x_filing": 0.37,
+      "risk_on": 1.0,
+      "rates_down": 0.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.0,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.8275,
+      "t_near_high": 0.0,
+      "o_implied_move": 0.9993,
+      "o_atm_iv": 0.3461,
+      "o_pcr_vol": 0.3095,
+      "o_pcr_oi": 0.5511,
+      "o_skew": 0.664,
+      "o_unusual_calls": 1.0,
+      "o_unusual_puts": 0.9993,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.7398,
+      "o_bias": 0.3799,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0602,
+      "f_days_to_cover": 0.9908,
+      "f_short_change": 0.0579,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0669,
+      "f_rev_growth": -0.011,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.354,
+      "f_quality": 0.5717
+    },
+    "done": [
+      1.0
+    ]
+  },
+  {
+    "ticker": "AVAV",
+    "day": "2026-07-03",
+    "ts": 1783102755.0982444,
+    "entry": 191.02000427246094,
+    "sig": "gov_contract|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": -0.15,
+      "tech_bias": 0.6,
+      "squeeze": 0.71,
+      "quality": 0.35,
+      "analyst_conv": 0.88,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.7040000000000001,
+      "opt_x_tech": -0.09,
+      "sqz_x_filing": 0.71,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.537,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.9647,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.7134,
+      "o_pcr_vol": 0.6107,
+      "o_pcr_oi": 0.7574,
+      "o_skew": 0.9996,
+      "o_unusual_calls": 1.0,
+      "o_unusual_puts": 0.9999,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.6858,
+      "o_bias": -0.1489,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1249,
+      "f_days_to_cover": 0.9991,
+      "f_short_change": 0.038,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": -0.1333,
+      "f_rev_growth": 0.87,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.6107,
+      "f_quality": 0.3364
+    }
   }
 ]
