@@ -233,39 +233,6 @@
     ]
   },
   {
-    "ticker": "ABBV",
-    "day": "2026-06-28",
-    "ts": 1782670042.7339404,
-    "entry": 251.63999938964844,
-    "sig": "fda_approval|news+regulatory|rates_down|risk_on|growth_up",
-    "sources": [
-      "fda",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.8,
-      "news_events": 1.0,
-      "opt_bias": 0.25,
-      "tech_bias": 0.35,
-      "squeeze": 0.3,
-      "quality": 0.95,
-      "analyst_conv": 1.0,
-      "is_filing": 0.0,
-      "is_options": 1.0,
-      "is_price": 1.0,
-      "indep_x_conv": 0.8,
-      "opt_x_tech": 0.0875,
-      "sqz_x_filing": 0.0,
-      "risk_on": 1.0,
-      "rates_down": 1.0,
-      "downtrend": 0.0
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "GNK",
     "day": "2026-06-29",
     "ts": 1782747878.8815224,
@@ -59067,7 +59034,8 @@
       "f_quality": 0.3364
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -59130,7 +59098,8 @@
       "f_quality": 0.2449
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -59182,7 +59151,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -59246,7 +59216,8 @@
       "f_quality": 0.5005
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -75302,6 +75273,7 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.6107,
       "f_quality": 0.3364
-    }
+    },
+    "done": []
   }
 ]
