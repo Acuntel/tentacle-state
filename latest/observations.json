@@ -60297,7 +60297,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60361,7 +60362,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60425,7 +60427,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60489,7 +60492,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60553,7 +60557,8 @@
       "f_quality": 0.2449
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60604,7 +60609,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60657,7 +60663,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60709,7 +60716,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60772,7 +60780,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60836,7 +60845,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60902,7 +60912,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -60956,7 +60967,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61018,7 +61030,8 @@
       "f_quality": 0.2449
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61082,7 +61095,8 @@
       "f_quality": 0.5005
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61147,7 +61161,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61212,7 +61227,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61276,7 +61292,8 @@
       "f_quality": 0.5005
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61338,7 +61355,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61404,7 +61422,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61468,7 +61487,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61524,7 +61544,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61588,7 +61609,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61652,7 +61674,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61718,7 +61741,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -61782,7 +61806,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -75407,7 +75432,9 @@
       "f_squeeze": 0.4621,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "FCX",
@@ -75468,6 +75495,186 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.2543,
       "f_quality": 0.7398
+    },
+    "done": [
+      1.0
+    ]
+  },
+  {
+    "ticker": "TDOC",
+    "day": "2026-07-03",
+    "ts": 1783111627.0684571,
+    "entry": 9.1899995803833,
+    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 1.0,
+      "news_events": 0.4,
+      "opt_bias": 0.3,
+      "tech_bias": 0.25,
+      "squeeze": 0.74,
+      "quality": 0.15,
+      "analyst_conv": 0.96,
+      "is_filing": 1.0,
+      "is_options": 1.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.96,
+      "opt_x_tech": 0.075,
+      "sqz_x_filing": 0.74,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.2449,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.7531,
+      "t_near_high": 0.7616,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.5683,
+      "o_pcr_vol": 0.04,
+      "o_pcr_oi": 0.1096,
+      "o_skew": -0.9959,
+      "o_unusual_calls": 0.7616,
+      "o_unusual_puts": 0.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.8538,
+      "o_bias": 0.2913,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1624,
+      "f_days_to_cover": 1.0,
+      "f_short_change": 0.1096,
+      "f_fwd_pe": -1.0,
+      "f_profit_margin": -0.068,
+      "f_rev_growth": -0.025,
+      "f_target_upside": -1.0,
+      "f_squeeze": 0.6291,
+      "f_quality": 0.1489
+    },
+    "done": []
+  },
+  {
+    "ticker": "QQQ",
+    "day": "2026-07-03",
+    "ts": 1783111627.690846,
+    "entry": 712.739990234375,
+    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "reddit"
+    ],
+    "feat": {
+      "independence": 0.4,
+      "news_events": 0.2,
+      "opt_bias": -0.15,
+      "tech_bias": 0.15,
+      "squeeze": 0.0,
+      "quality": 0.5,
+      "analyst_conv": 0.65,
+      "is_filing": 0.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.26,
+      "opt_x_tech": -0.0225,
+      "sqz_x_filing": 0.0,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.1489,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.7352,
+      "t_near_high": 0.0,
+      "o_implied_move": 0.8511,
+      "o_atm_iv": 0.1508,
+      "o_pcr_vol": 0.7163,
+      "o_pcr_oi": 0.9329,
+      "o_skew": 1.0,
+      "o_unusual_calls": 1.0,
+      "o_unusual_puts": 1.0,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.4219,
+      "o_bias": -0.1489,
+      "f_float_shares": 1.0,
+      "f_squeeze": 0.0,
+      "f_quality": 0.4621
+    },
+    "done": []
+  },
+  {
+    "ticker": "IONQ",
+    "day": "2026-07-03",
+    "ts": 1783111627.6908705,
+    "entry": 49.16999816894531,
+    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "reddit"
+    ],
+    "feat": {
+      "independence": 0.6,
+      "news_events": 1.0,
+      "opt_bias": 0.0,
+      "tech_bias": -0.4,
+      "squeeze": 0.38,
+      "quality": 0.85,
+      "analyst_conv": 0.49,
+      "is_filing": 0.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.294,
+      "opt_x_tech": -0.0,
+      "sqz_x_filing": 0.0,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 1.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": -0.3799,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.5649,
+      "t_near_high": 0.0,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.6968,
+      "o_pcr_vol": 0.9354,
+      "o_pcr_oi": 0.8692,
+      "o_skew": 0.994,
+      "o_unusual_calls": 1.0,
+      "o_unusual_puts": 0.9993,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.7211,
+      "o_bias": 0.0,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1352,
+      "f_days_to_cover": 0.9217,
+      "f_short_change": -0.3013,
+      "f_fwd_pe": -1.0,
+      "f_profit_margin": 0.9412,
+      "f_rev_growth": 1.0,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.3627,
+      "f_quality": 0.6911
     },
     "done": []
   }
