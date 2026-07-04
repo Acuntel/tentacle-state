@@ -68811,7 +68811,8 @@
       "f_quality": 0.2449
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -68874,7 +68875,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -68938,7 +68940,8 @@
       "f_quality": 0.3364
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -69002,7 +69005,8 @@
       "f_quality": 0.5005
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -69050,7 +69054,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -69115,7 +69120,8 @@
       "f_quality": 0.6351
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -69179,7 +69185,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -69233,7 +69240,8 @@
       "f_quality": 0.664
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -69297,7 +69305,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -69361,7 +69370,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -69425,7 +69435,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -69489,7 +69500,8 @@
       "f_quality": 0.6351
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -75903,7 +75915,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "HON",
@@ -75965,7 +75979,9 @@
       "f_squeeze": 0.3095,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "BA",
@@ -76027,7 +76043,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LMT",
@@ -76089,7 +76107,9 @@
       "f_squeeze": 0.2543,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NOC",
@@ -76151,7 +76171,9 @@
       "f_squeeze": 0.2355,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LFCR",
@@ -76212,7 +76234,9 @@
       "f_squeeze": 0.5299,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CREX",
@@ -76266,7 +76290,9 @@
       "f_squeeze": 0.207,
       "f_quality": 0.5005
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "IRDM",
@@ -76328,7 +76354,9 @@
       "f_squeeze": 0.4621,
       "f_quality": 0.537
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "PB",
@@ -76390,7 +76418,9 @@
       "f_squeeze": 0.4777,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ANGX",
@@ -76451,7 +76481,9 @@
       "f_squeeze": 0.1877,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "UNF",
@@ -76513,7 +76545,9 @@
       "f_squeeze": 0.4621,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AAPL",
@@ -76576,7 +76610,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LLY",
@@ -76639,7 +76675,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "PLTR",
@@ -76702,7 +76740,9 @@
       "f_squeeze": 0.2821,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AMZN",
@@ -76766,7 +76806,9 @@
       "f_squeeze": 0.0798,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "RKLB",
@@ -76828,7 +76870,9 @@
       "f_squeeze": 0.3185,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "HIVE",
@@ -76889,7 +76933,9 @@
       "f_squeeze": 0.1781,
       "f_quality": 0.5005
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AKTX",
@@ -76949,7 +76995,9 @@
       "f_squeeze": 0.2913,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NKE",
@@ -77011,7 +77059,9 @@
       "f_squeeze": 0.354,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LOVE",
@@ -77072,7 +77122,9 @@
       "f_squeeze": 0.7163,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "HFBL",
@@ -77122,7 +77174,9 @@
       "f_squeeze": 0.1974,
       "f_quality": 0.6911
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "PODD",
@@ -77184,7 +77238,9 @@
       "f_squeeze": 0.4053,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NFLX",
@@ -77246,7 +77302,9 @@
       "f_squeeze": 0.2821,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "EXE",
@@ -77308,7 +77366,9 @@
       "f_squeeze": 0.2821,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ECL",
@@ -77370,7 +77430,9 @@
       "f_squeeze": 0.2355,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "FISV",
@@ -77427,7 +77489,9 @@
       "f_squeeze": 0.0,
       "f_quality": 0.537
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LE",
@@ -77488,7 +77552,9 @@
       "f_squeeze": 0.5005,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "MRK",
@@ -77550,7 +77616,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "BLK",
@@ -79346,7 +79414,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.5915,
       "f_quality": 0.2913
-    }
+    },
+    "done": []
   },
   {
     "ticker": "NGNE",
@@ -79402,7 +79471,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.7163,
       "f_quality": 0.2913
-    }
+    },
+    "done": []
   },
   {
     "ticker": "BETR",
@@ -79458,7 +79528,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.7487,
       "f_quality": 0.5005
-    }
+    },
+    "done": []
   },
   {
     "ticker": "BLNE",
@@ -79508,7 +79579,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.3095,
       "f_quality": 0.5005
-    }
+    },
+    "done": []
   },
   {
     "ticker": "AXTI",
@@ -79568,7 +79640,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.3095,
       "f_quality": 0.3364
-    }
+    },
+    "done": []
   },
   {
     "ticker": "ADCT",
@@ -79625,6 +79698,56 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.3275,
       "f_quality": 0.1489
+    },
+    "done": []
+  },
+  {
+    "ticker": "AROW",
+    "day": "2026-07-04",
+    "ts": 1783128670.431891,
+    "entry": 41.25,
+    "sig": "mna_target|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "sec_fulltext"
+    ],
+    "feat": {
+      "independence": 0.6,
+      "news_events": 1.0,
+      "opt_bias": 0.0,
+      "tech_bias": 0.0,
+      "squeeze": 0.7064193203972353,
+      "quality": 0.95,
+      "analyst_conv": 0.84,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.504,
+      "opt_x_tech": 0.0,
+      "sqz_x_filing": 0.44,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.6469,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.017,
+      "f_days_to_cover": 0.9992,
+      "f_short_change": 0.2524,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.2947,
+      "f_rev_growth": 0.2858,
+      "f_target_upside": -0.537,
+      "f_squeeze": 0.4136,
+      "f_quality": 0.7398
     }
   }
 ]
