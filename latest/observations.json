@@ -72226,7 +72226,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72281,7 +72282,8 @@
       "f_quality": 0.3799
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72344,7 +72346,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -79865,7 +79868,9 @@
       "f_squeeze": 0.4136,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "XYZ",
@@ -79926,7 +79931,9 @@
       "f_squeeze": 0.1877,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "PWRL",
@@ -79971,7 +79978,9 @@
       "f_squeeze": 0.1586,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "PICS",
@@ -80021,7 +80030,9 @@
       "f_squeeze": 0.4854,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "META",
@@ -80082,7 +80093,9 @@
       "f_squeeze": 0.0798,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NUVB",
@@ -80140,7 +80153,9 @@
       "f_squeeze": 0.6351,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "RMBI",
@@ -80188,7 +80203,9 @@
       "f_squeeze": 0.2636,
       "f_quality": 0.6911
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "QCLS",
@@ -80235,7 +80252,9 @@
       "f_squeeze": 0.6291,
       "f_quality": 0.2913
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "QNT",
@@ -80292,7 +80311,9 @@
       "f_squeeze": 0.2449,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "PATK",
@@ -80351,7 +80372,9 @@
       "f_squeeze": 0.4699,
       "f_quality": 0.5717
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "REE",
@@ -80400,7 +80423,9 @@
       "f_squeeze": 0.207,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ORBS",
@@ -80455,7 +80480,9 @@
       "f_squeeze": 0.3185,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NVVE",
@@ -80504,7 +80531,9 @@
       "f_squeeze": 0.3275,
       "f_quality": 0.4219
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ADBE",
@@ -80565,7 +80594,9 @@
       "f_squeeze": 0.354,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "PRSO",
@@ -80616,7 +80647,9 @@
       "f_squeeze": 0.2165,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "LCII",
@@ -80675,7 +80708,9 @@
       "f_squeeze": 0.6291,
       "f_quality": 0.664
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "BSVN",
@@ -80725,7 +80760,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.4219,
       "f_quality": 0.7398
-    }
+    },
+    "done": []
   },
   {
     "ticker": "CNDT",
@@ -80782,7 +80818,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.3095,
       "f_quality": 0.1489
-    }
+    },
+    "done": []
   },
   {
     "ticker": "CJMB",
@@ -80830,7 +80867,8 @@
       "f_rev_growth": -0.2327,
       "f_squeeze": 0.6044,
       "f_quality": 0.1489
-    }
+    },
+    "done": []
   },
   {
     "ticker": "COLL",
@@ -80888,6 +80926,7 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.7114,
       "f_quality": 0.7398
-    }
+    },
+    "done": []
   }
 ]
