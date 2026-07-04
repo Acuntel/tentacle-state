@@ -81195,7 +81195,8 @@
       "f_rev_growth": 0.3487,
       "f_squeeze": 0.4136,
       "f_quality": 0.6911
-    }
+    },
+    "done": []
   },
   {
     "ticker": "CYPH",
@@ -81250,7 +81251,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.3627,
       "f_quality": 0.2913
-    }
+    },
+    "done": []
   },
   {
     "ticker": "CRTO",
@@ -81309,7 +81311,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.4301,
       "f_quality": 0.5717
-    }
+    },
+    "done": []
   },
   {
     "ticker": "GETY",
@@ -81366,7 +81369,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.5154,
       "f_quality": 0.3799
-    }
+    },
+    "done": []
   },
   {
     "ticker": "CRIS",
@@ -81415,7 +81419,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.1781,
       "f_quality": 0.2913
-    }
+    },
+    "done": []
   },
   {
     "ticker": "CVKD",
@@ -81463,6 +81468,7 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.3799,
       "f_quality": 0.2913
-    }
+    },
+    "done": []
   }
 ]
