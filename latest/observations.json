@@ -72400,7 +72400,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72464,7 +72465,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72526,7 +72528,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72579,7 +72582,8 @@
       "f_quality": 0.6911
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72643,7 +72647,8 @@
       "f_quality": 0.5717
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72696,7 +72701,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72749,7 +72755,8 @@
       "f_quality": 0.1489
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72811,7 +72818,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -80761,7 +80769,9 @@
       "f_squeeze": 0.4219,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CNDT",
@@ -80819,7 +80829,9 @@
       "f_squeeze": 0.3095,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "CJMB",
@@ -80868,7 +80880,9 @@
       "f_squeeze": 0.6044,
       "f_quality": 0.1489
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "COLL",
@@ -80925,6 +80939,69 @@
       "f_rev_growth": 0.0888,
       "f_target_upside": 1.0,
       "f_squeeze": 0.7114,
+      "f_quality": 0.7398
+    },
+    "done": [
+      1.0
+    ]
+  },
+  {
+    "ticker": "DKNG",
+    "day": "2026-07-04",
+    "ts": 1783144600.7769473,
+    "entry": 25.8799991607666,
+    "sig": "unknown|demand+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "appstore",
+      "google_news"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 0.2,
+      "opt_bias": 0.25,
+      "tech_bias": 0.15,
+      "squeeze": 0.7064193203972353,
+      "quality": 0.95,
+      "analyst_conv": 0.9,
+      "is_filing": 0.0,
+      "is_options": 1.0,
+      "is_price": 0.0,
+      "indep_x_conv": 0.7200000000000001,
+      "opt_x_tech": 0.0375,
+      "sqz_x_filing": 0.0,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 1.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.1489,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.508,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.4715,
+      "o_pcr_vol": 0.3885,
+      "o_pcr_oi": 0.3885,
+      "o_skew": 1.0,
+      "o_unusual_calls": 0.9993,
+      "o_unusual_puts": 0.964,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.6044,
+      "o_bias": 0.2449,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0837,
+      "f_days_to_cover": 0.9953,
+      "f_short_change": 0.042,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.0093,
+      "f_rev_growth": 0.1664,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.4136,
       "f_quality": 0.7398
     },
     "done": []
