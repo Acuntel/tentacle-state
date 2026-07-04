@@ -74007,7 +74007,8 @@
       "f_quality": 0.6911
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -74071,7 +74072,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -74135,7 +74137,8 @@
       "f_quality": 0.4219
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -81799,7 +81802,8 @@
       "f_target_upside": -0.9996,
       "f_squeeze": 0.4621,
       "f_quality": 0.7398
-    }
+    },
+    "done": []
   },
   {
     "ticker": "FCX",
@@ -81859,7 +81863,8 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.2543,
       "f_quality": 0.7398
-    }
+    },
+    "done": []
   },
   {
     "ticker": "QQQ",
@@ -81910,7 +81915,8 @@
       "o_bias": -0.1489,
       "f_float_shares": 1.0,
       "f_quality": 0.4621
-    }
+    },
+    "done": []
   },
   {
     "ticker": "IONQ",
@@ -81970,6 +81976,7 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.3627,
       "f_quality": 0.6911
-    }
+    },
+    "done": []
   }
 ]
