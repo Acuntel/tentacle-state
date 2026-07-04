@@ -72883,7 +72883,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -72946,7 +72947,8 @@
       "f_quality": 0.5005
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -73008,7 +73010,8 @@
       "f_quality": 0.2913
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -73072,7 +73075,8 @@
       "f_quality": 0.05
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -73136,7 +73140,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -73200,7 +73205,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -73263,7 +73269,8 @@
       "f_quality": 0.3799
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -73327,7 +73334,8 @@
       "f_quality": 0.7398
     },
     "done": [
-      1.0
+      1.0,
+      24.0
     ]
   },
   {
@@ -81004,6 +81012,126 @@
       "f_squeeze": 0.4136,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
+  },
+  {
+    "ticker": "MA",
+    "day": "2026-07-04",
+    "ts": 1783149570.4781623,
+    "entry": 539.2899780273438,
+    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "newswire"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": 0.2,
+      "tech_bias": 0.25,
+      "squeeze": 0.17808086811733018,
+      "quality": 0.95,
+      "analyst_conv": 0.92,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.7360000000000001,
+      "opt_x_tech": 0.05,
+      "sqz_x_filing": 0.06,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.2449,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.7211,
+      "t_near_high": 0.7616,
+      "o_implied_move": 0.9771,
+      "o_atm_iv": 0.2655,
+      "o_pcr_vol": 0.5154,
+      "o_pcr_oi": 0.7487,
+      "o_skew": 0.1974,
+      "o_unusual_calls": 0.7616,
+      "o_unusual_puts": 0.7616,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.8275,
+      "o_bias": 0.1974,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.0076,
+      "f_days_to_cover": 0.9468,
+      "f_short_change": -0.0639,
+      "f_fwd_pe": 1.0,
+      "f_profit_margin": 0.4291,
+      "f_rev_growth": 0.1567,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.0599,
+      "f_quality": 0.7398
+    }
+  },
+  {
+    "ticker": "ALMS",
+    "day": "2026-07-04",
+    "ts": 1783149571.416661,
+    "entry": 26.510000228881836,
+    "sig": "mna_target|filing+news|rates_down|risk_on|growth_up",
+    "sources": [
+      "google_news",
+      "sec_fulltext"
+    ],
+    "feat": {
+      "independence": 0.8,
+      "news_events": 1.0,
+      "opt_bias": -0.35,
+      "tech_bias": 0.5,
+      "squeeze": 0.9871357830661627,
+      "quality": 0.15,
+      "analyst_conv": 0.69,
+      "is_filing": 1.0,
+      "is_options": 0.0,
+      "is_price": 1.0,
+      "indep_x_conv": 0.5519999999999999,
+      "opt_x_tech": -0.175,
+      "sqz_x_filing": 0.84,
+      "risk_on": 1.0,
+      "rates_down": 1.0,
+      "downtrend": 0.0,
+      "is_regulatory": 0.0,
+      "is_crowd": 0.0,
+      "is_demand": 0.0,
+      "is_onchain": 0.0,
+      "is_flow": 0.0,
+      "is_altdata": 0.0,
+      "n_src": 0.2,
+      "t_bias": 0.4621,
+      "t_rsi": 1.0,
+      "t_vol_ratio": 0.7895,
+      "o_implied_move": 1.0,
+      "o_atm_iv": 0.6231,
+      "o_pcr_vol": 0.9917,
+      "o_pcr_oi": 0.3275,
+      "o_skew": 0.999,
+      "o_max_pain": 1.0,
+      "o_iv_rv": 0.7531,
+      "o_bias": -0.3364,
+      "f_market_cap": 1.0,
+      "f_float_shares": 1.0,
+      "f_short_pct_float": 0.1749,
+      "f_days_to_cover": 1.0,
+      "f_short_change": 0.1135,
+      "f_fwd_pe": -1.0,
+      "f_rev_growth": -0.7163,
+      "f_target_upside": 1.0,
+      "f_squeeze": 0.6858,
+      "f_quality": 0.1489
+    }
   }
 ]
