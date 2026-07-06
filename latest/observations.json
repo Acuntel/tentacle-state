@@ -56911,7 +56911,9 @@
       "f_squeeze": 0.2821,
       "f_quality": 0.7398
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "DRTTF",
