@@ -149,3 +149,5 @@
 {"ts": "2026-07-06T16:47:54Z", "ticker": "HII", "dir": -1, "exit": "stop", "ret": -6.002, "alpha": -5.442, "long_win": true, "sig": "gov_contract|news+regulatory+social|rates_down|risk_on|growth_up"}
 {"ts": "2026-07-06T17:42:51Z", "ticker": "VRTX", "dir": -1, "exit": "stop", "ret": -6.0, "alpha": -5.601, "long_win": true, "sig": "fda_approval|news+regulatory+social|rates_down|risk_on|growth_up"}
 {"ts": "2026-07-06T17:56:13Z", "ticker": "VRTX", "dir": -1, "exit": "stop", "ret": -6.01, "alpha": -5.564, "long_win": true, "sig": "fda_approval|news+regulatory+social|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-06T19:38:42Z", "ticker": "ADMA", "dir": 1, "exit": "time", "ret": 4.988, "alpha": 4.156, "long_win": true, "sig": "unknown|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-06T19:48:40Z", "ticker": "ARQQW", "dir": 1, "exit": "stop", "ret": -14.808, "alpha": -14.817, "long_win": false, "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up"}
