@@ -458,114 +458,6 @@
     ]
   },
   {
-    "ticker": "ESLAW",
-    "day": "2026-07-01",
-    "ts": 1782905471.5804486,
-    "entry": 0.12999999523162842,
-    "sig": "unknown|filing+news|rates_down|risk_on|growth_up",
-    "sources": [
-      "edgar_8k",
-      "google_news"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 0.4,
-      "opt_bias": 0.0,
-      "tech_bias": 0.0,
-      "squeeze": 0.15,
-      "quality": 0.3,
-      "analyst_conv": 0.71,
-      "is_filing": 1.0,
-      "is_options": 0.0,
-      "is_price": 0.0,
-      "indep_x_conv": 0.284,
-      "opt_x_tech": 0.0,
-      "sqz_x_filing": 0.15,
-      "risk_on": 1.0,
-      "rates_down": 1.0,
-      "downtrend": 0.0,
-      "is_regulatory": 0.0,
-      "is_crowd": 0.0,
-      "is_demand": 0.0,
-      "is_onchain": 0.0,
-      "is_flow": 0.0,
-      "is_altdata": 0.0,
-      "n_src": 0.2,
-      "f_float_shares": 1.0,
-      "f_profit_margin": 0.0,
-      "f_squeeze": 0.1489,
-      "f_quality": 0.2913
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
-    "ticker": "LGO",
-    "day": "2026-07-01",
-    "ts": 1782925506.906215,
-    "entry": 0.7444000244140625,
-    "sig": "unknown|news+social|rates_down|risk_on|growth_up",
-    "sources": [
-      "apewisdom",
-      "google_news",
-      "stocktwits"
-    ],
-    "feat": {
-      "independence": 0.4,
-      "news_events": 1.0,
-      "opt_bias": 0.2,
-      "tech_bias": -0.15,
-      "squeeze": 0.11,
-      "quality": 0.25,
-      "analyst_conv": 0.43,
-      "is_filing": 0.0,
-      "is_options": 0.0,
-      "is_price": 0.0,
-      "indep_x_conv": 0.17200000000000001,
-      "opt_x_tech": -0.03,
-      "sqz_x_filing": 0.0,
-      "risk_on": 1.0,
-      "rates_down": 1.0,
-      "downtrend": 0.0,
-      "is_regulatory": 0.0,
-      "is_crowd": 1.0,
-      "is_demand": 0.0,
-      "is_onchain": 0.0,
-      "is_flow": 0.0,
-      "is_altdata": 0.0,
-      "n_src": 0.3,
-      "t_bias": -0.1489,
-      "t_rsi": 1.0,
-      "t_vol_ratio": 1.0,
-      "t_near_high": 0.0,
-      "o_implied_move": 1.0,
-      "o_atm_iv": 0.9912,
-      "o_pcr_vol": 0.4382,
-      "o_pcr_oi": 0.04,
-      "o_unusual_calls": 0.0,
-      "o_unusual_puts": 0.0,
-      "o_max_pain": 0.7616,
-      "o_iv_rv": 0.9952,
-      "o_bias": 0.1974,
-      "f_market_cap": 1.0,
-      "f_float_shares": 1.0,
-      "f_days_to_cover": 0.9996,
-      "f_short_change": -0.0898,
-      "f_fwd_pe": 1.0,
-      "f_profit_margin": -0.5389,
-      "f_rev_growth": -0.025,
-      "f_target_upside": 1.0,
-      "f_squeeze": 0.1096,
-      "f_quality": 0.2449
-    },
-    "done": [
-      1.0,
-      24.0
-    ]
-  },
-  {
     "ticker": "PPG",
     "day": "2026-07-01",
     "ts": 1782928196.69578,
@@ -56215,7 +56107,9 @@
       "f_squeeze": 0.4621,
       "f_quality": 0.5005
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "NBIS",
@@ -56276,7 +56170,9 @@
       "f_squeeze": 0.6169,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "AMD",
@@ -56337,7 +56233,9 @@
       "f_squeeze": 0.2543,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "ALL",
