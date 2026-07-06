@@ -56410,7 +56410,9 @@
       "f_squeeze": 0.1391,
       "f_quality": 0.6351
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "C-PR",
@@ -56457,7 +56459,9 @@
       "f_squeeze": 0.01,
       "f_quality": 0.6911
     },
-    "done": []
+    "done": [
+      1.0
+    ]
   },
   {
     "ticker": "BML-PJ",
@@ -57634,6 +57638,7 @@
       "f_target_upside": 1.0,
       "f_squeeze": 0.1489,
       "f_quality": 0.7398
-    }
+    },
+    "done": []
   }
 ]
