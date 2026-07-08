@@ -216,3 +216,11 @@
 {"ts": "2026-07-07T19:44:55Z", "ticker": "NCT", "dir": -1, "exit": "stop", "ret": -13.734, "alpha": -13.734, "long_win": true, "sig": "insider_cluster|filing+news+regulatory|rates_down|risk_on|growth_up"}
 {"ts": "2026-07-07T19:49:58Z", "ticker": "EPRX", "dir": -1, "exit": "stop", "ret": -6.122, "alpha": -5.978, "long_win": true, "sig": "unknown|filing+news|rates_down|risk_on|growth_up"}
 {"ts": "2026-07-07T19:55:59Z", "ticker": "NCT", "dir": -1, "exit": "stop", "ret": -9.434, "alpha": -9.413, "long_win": true, "sig": "insider_cluster|filing+news+regulatory|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T13:31:37Z", "ticker": "COST", "dir": 1, "exit": "time", "ret": -0.001, "alpha": 0.242, "long_win": true, "sig": "unknown|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T13:32:10Z", "ticker": "CNXC", "dir": 1, "exit": "stop", "ret": -6.146, "alpha": -5.538, "long_win": false, "sig": "unknown|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T13:32:26Z", "ticker": "VIA", "dir": 1, "exit": "stop", "ret": -7.088, "alpha": -6.796, "long_win": false, "sig": "unknown|filing+news+social|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T13:32:40Z", "ticker": "SABSW", "dir": 1, "exit": "stop", "ret": -16.585, "alpha": -15.886, "long_win": false, "sig": "unknown|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T13:32:44Z", "ticker": "OILD", "dir": 1, "exit": "stop", "ret": -8.036, "alpha": -7.31, "long_win": false, "sig": "insider_cluster|filing+news+social|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T13:43:53Z", "ticker": "DGXX", "dir": 1, "exit": "target", "ret": 4.119, "alpha": 4.441, "long_win": true, "sig": "index_inclusion|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T13:44:03Z", "ticker": "NCRA", "dir": 1, "exit": "stop", "ret": -11.707, "alpha": -11.342, "long_win": false, "sig": "mna_target|news+regulatory|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T13:46:24Z", "ticker": "INUV", "dir": -1, "exit": "target", "ret": 4.337, "alpha": 3.368, "long_win": false, "sig": "insider_cluster|filing+news+social|rates_down|risk_on|growth_up"}
