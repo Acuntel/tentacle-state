@@ -224,3 +224,14 @@
 {"ts": "2026-07-08T13:43:53Z", "ticker": "DGXX", "dir": 1, "exit": "target", "ret": 4.119, "alpha": 4.441, "long_win": true, "sig": "index_inclusion|filing+news|rates_down|risk_on|growth_up"}
 {"ts": "2026-07-08T13:44:03Z", "ticker": "NCRA", "dir": 1, "exit": "stop", "ret": -11.707, "alpha": -11.342, "long_win": false, "sig": "mna_target|news+regulatory|rates_down|risk_on|growth_up"}
 {"ts": "2026-07-08T13:46:24Z", "ticker": "INUV", "dir": -1, "exit": "target", "ret": 4.337, "alpha": 3.368, "long_win": false, "sig": "insider_cluster|filing+news+social|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T14:03:49Z", "ticker": "VANI", "dir": 1, "exit": "target", "ret": 12.003, "alpha": 12.765, "long_win": true, "sig": "mna_target|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T14:04:02Z", "ticker": "GPGI", "dir": 1, "exit": "stop", "ret": -8.344, "alpha": -7.69, "long_win": false, "sig": "unknown|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T14:37:33Z", "ticker": "CYCU", "dir": -1, "exit": "target", "ret": 7.318, "alpha": 7.256, "long_win": false, "sig": "mna_target|filing+news+social|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T14:54:36Z", "ticker": "IRDM", "dir": 1, "exit": "stop", "ret": -6.003, "alpha": -5.675, "long_win": false, "sig": "mna_target|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T14:55:02Z", "ticker": "AGEN", "dir": 1, "exit": "stop", "ret": -6.091, "alpha": -5.509, "long_win": false, "sig": "insider_cluster|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T14:55:07Z", "ticker": "GVH", "dir": -1, "exit": "stop", "ret": -8.75, "alpha": -9.664, "long_win": true, "sig": "mna_target|news+regulatory|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T14:55:16Z", "ticker": "AMPGR", "dir": 1, "exit": "stop", "ret": -10.0, "alpha": -9.783, "long_win": false, "sig": "unknown|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T15:06:00Z", "ticker": "ABCL", "dir": 1, "exit": "stop", "ret": -8.077, "alpha": -6.75, "long_win": false, "sig": "unknown|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T15:12:08Z", "ticker": "RKLB", "dir": -1, "exit": "target", "ret": 4.581, "alpha": 3.834, "long_win": false, "sig": "gov_contract|news+social|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T18:43:20Z", "ticker": "AROW", "dir": 1, "exit": "time", "ret": -3.917, "alpha": -3.78, "long_win": false, "sig": "mna_target|filing+news|rates_down|risk_on|growth_up"}
+{"ts": "2026-07-08T18:43:41Z", "ticker": "VICR", "dir": 1, "exit": "target", "ret": 4.123, "alpha": 4.369, "long_win": true, "sig": "insider_cluster|filing+news+social|rates_down|risk_on|growth_up"}
