@@ -73,7 +73,7 @@
     "pwin": 0.31,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 99.8
+    "peak": 99.8065
   },
   {
     "ticker": "HZO",
@@ -234,7 +234,7 @@
     "pwin": 0.526,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 73.95999908447266
+    "peak": 74.30999755859375
   },
   {
     "ticker": "EW",
@@ -393,7 +393,7 @@
     "pwin": 0.591,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 44.05500030517578
+    "peak": 44.46
   },
   {
     "ticker": "AIN",
@@ -471,6 +471,6 @@
     "pwin": 0.509,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 64.38999938964844
+    "peak": 65.0
   }
 ]
