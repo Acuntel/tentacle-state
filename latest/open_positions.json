@@ -154,7 +154,7 @@
     "pwin": 0.492,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 137.07000732421875
+    "peak": 137.9199981689453
   },
   {
     "ticker": "FULC",
@@ -231,6 +231,6 @@
     "pwin": 0.43,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 3.92
+    "peak": 4.04
   }
 ]
