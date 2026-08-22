@@ -74,7 +74,7 @@
     "pwin": 0.464,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 166.3
+    "peak": 167.0800018310547
   },
   {
     "ticker": "ABBV",
@@ -154,7 +154,7 @@
     "pwin": 0.477,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 266.739990234375
+    "peak": 273.0704
   },
   {
     "ticker": "PSEC",
@@ -234,6 +234,6 @@
     "pwin": 0.483,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 2.3
+    "peak": 2.3550000190734863
   }
 ]
