@@ -1,12 +1,12 @@
 {
-  "episodes": 602714,
-  "wins": 294263,
+  "episodes": 603939,
+  "wins": 294857,
   "sum_ret": NaN,
-  "sim_equity": 713.4694009422947,
-  "peak": 742.5065565690367,
+  "sim_equity": 1145.2918587841268,
+  "peak": 1145.2918587841268,
   "start": 500.0,
-  "last_ts": 1787617180.7205803,
-  "eps_since_reset": 694,
+  "last_ts": 1787637663.1276438,
+  "eps_since_reset": 1919,
   "windows": [
     442.2,
     241.5,
