@@ -237,7 +237,9 @@
     "pwin": 0.47,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 442.81
+    "peak": 442.81,
+    "trough": 434.3999938964844,
+    "ext_stop_hits": 0
   },
   {
     "ticker": "PGEN",
