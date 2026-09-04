@@ -234,7 +234,7 @@
     "pwin": 0.487,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 50.654998779296875,
+    "peak": 50.79499816894531,
     "trough": 50.1682,
     "ext_stop_hits": 0
   },
@@ -405,7 +405,7 @@
     "event_ts": null,
     "exit_by_ts": null,
     "peak": 344.1099853515625,
-    "trough": 337.1300048828125,
+    "trough": 322.1564,
     "ext_stop_hits": 0
   },
   {
@@ -484,7 +484,7 @@
     "pwin": 0.489,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 16.809999465942383,
+    "peak": 17.28,
     "trough": 15.829999923706055,
     "ext_stop_hits": 0
   }
