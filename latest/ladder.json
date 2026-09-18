@@ -1,15 +1,9 @@
 {
   "rung": 0,
-  "paper_equity": 410.28513307396037,
+  "paper_equity": 408.71331227396036,
   "peak_equity": 500.0,
   "dead": false,
   "recent": [
-    {
-      "conf": 73.7230682751301,
-      "pnl_pct": -1.9,
-      "alpha": -1.71,
-      "win": false
-    },
     {
       "conf": 100.0,
       "pnl_pct": 0.7,
@@ -625,6 +619,13 @@
       "alpha": 0.39,
       "win": true,
       "size_frac": 0.1255
+    },
+    {
+      "conf": 84.01672350619445,
+      "pnl_pct": -2.66,
+      "alpha": -2.99,
+      "win": false,
+      "size_frac": 0.1184
     }
   ],
   "equity_curve": [
@@ -1223,6 +1224,10 @@
     {
       "t": 1789587213.9582512,
       "eq": 410.29
+    },
+    {
+      "t": 1789657263.385986,
+      "eq": 408.71
     }
   ],
   "milestones": []
