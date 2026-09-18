@@ -3832,3 +3832,15 @@
 {"ts": "2026-09-16T19:21:57Z", "ticker": "WNC", "dir": 1, "exit": "stop", "ret": -8.93, "alpha": -8.072, "cost": 0.8, "long_win": false, "sig": "unknown|filing+news+social|rates_flat|risk_on|growth_up"}
 {"ts": "2026-09-16T19:27:34Z", "ticker": "MLAB", "dir": 1, "exit": "time", "ret": 2.715, "alpha": 4.571, "cost": 0.4, "long_win": true, "sig": "unknown|filing+news+social|rates_flat|risk_on|growth_up"}
 {"ts": "2026-09-16T19:51:18Z", "ticker": "AQST", "dir": 1, "exit": "time", "ret": 0.02, "alpha": 1.371, "cost": 0.4, "long_win": true, "sig": "unknown|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T13:36:09Z", "ticker": "CRM", "dir": 1, "exit": "stop", "ret": -7.214, "alpha": -7.688, "cost": 0.06, "long_win": false, "sig": "mna_target|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T13:36:09Z", "ticker": "MRVL", "dir": 1, "exit": "target", "ret": 10.119, "alpha": 9.583, "cost": 0.06, "long_win": true, "sig": "index_inclusion|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T13:47:35Z", "ticker": "TSEM", "dir": 1, "exit": "target", "ret": 11.88, "alpha": 11.51, "cost": 0.16, "long_win": true, "sig": "unknown|filing+news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T13:47:41Z", "ticker": "CIEN", "dir": 1, "exit": "target", "ret": 12.781, "alpha": 12.867, "cost": 0.06, "long_win": true, "sig": "earnings_beat|news+regulatory|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T14:12:55Z", "ticker": "AEMD", "dir": 1, "exit": "stop", "ret": -7.082, "alpha": -6.998, "cost": 0.16, "long_win": false, "sig": "mna_target|filing+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T15:29:38Z", "ticker": "GILD", "dir": 1, "exit": "time", "ret": 3.088, "alpha": 2.59, "cost": 0.06, "long_win": true, "sig": "index_inclusion|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T16:25:05Z", "ticker": "HONA", "dir": 1, "exit": "time", "ret": 7.66, "alpha": 7.047, "cost": 0.06, "long_win": true, "sig": "index_inclusion|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T17:04:44Z", "ticker": "APD", "dir": 1, "exit": "time", "ret": -2.962, "alpha": -3.586, "cost": 0.16, "long_win": false, "sig": "index_inclusion|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T17:51:45Z", "ticker": "PHVS", "dir": 1, "exit": "time", "ret": -5.011, "alpha": -5.02, "cost": 0.4, "long_win": false, "sig": "fda_approval|filing+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T18:48:51Z", "ticker": "PG", "dir": 1, "exit": "time", "ret": 2.816, "alpha": 2.201, "cost": 0.06, "long_win": true, "sig": "index_inclusion|filing+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T19:32:05Z", "ticker": "LIFE", "dir": 1, "exit": "stop", "ret": -8.998, "alpha": -9.348, "cost": 0.16, "long_win": false, "sig": "unknown|filing+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-09-17T19:59:20Z", "ticker": "SMG", "dir": 1, "exit": "stop", "ret": -6.426, "alpha": -6.486, "cost": 0.4, "long_win": false, "sig": "mna_target|filing+news+social|rates_flat|risk_on|growth_up"}
