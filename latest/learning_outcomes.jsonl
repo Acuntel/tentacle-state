@@ -4217,3 +4217,20 @@
 {"ts": "2026-09-30T19:10:49Z", "ticker": "WFC-PZ", "dir": 1, "exit": "time", "ret": -2.492, "alpha": -2.356, "cost": 0.8, "long_win": false, "sig": "index_inclusion|filing+news|rates_flat|risk_on|growth_up"}
 {"ts": "2026-09-30T19:28:43Z", "ticker": "UGP", "dir": 1, "exit": "time", "ret": 3.134, "alpha": 3.756, "cost": 0.4, "long_win": true, "sig": "gov_contract|filing+news+social|rates_flat|risk_on|growth_up"}
 {"ts": "2026-09-30T19:33:23Z", "ticker": "ALGT", "dir": 1, "exit": "time", "ret": -5.754, "alpha": -5.068, "cost": 0.4, "long_win": false, "sig": "earnings_beat|filing+news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T13:30:32Z", "ticker": "CTVA", "dir": 1, "exit": "corrupt", "ret": -82.0, "alpha": 0.0, "cost": 0.0, "long_win": null, "sig": "earnings_beat|filing+news|rates_flat|risk_on|growth_up", "note": "rejected: |move| > 60% (split/bad print)"}
+{"ts": "2026-10-01T13:33:01Z", "ticker": "LLY", "dir": 1, "exit": "time", "ret": -2.383, "alpha": -1.954, "cost": 0.06, "long_win": false, "sig": "fda_approval|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T13:49:20Z", "ticker": "NFLX", "dir": 1, "exit": "time", "ret": -5.409, "alpha": -4.063, "cost": 0.06, "long_win": false, "sig": "mna_target|crowd+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T14:28:24Z", "ticker": "NXL", "dir": 1, "exit": "stop", "ret": -9.154, "alpha": -9.154, "cost": 0.16, "long_win": false, "sig": "unknown|news+regulatory|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T14:33:04Z", "ticker": "GS", "dir": 1, "exit": "time", "ret": -3.827, "alpha": -2.996, "cost": 0.06, "long_win": false, "sig": "index_inclusion|filing+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T14:52:16Z", "ticker": "FWDI", "dir": 1, "exit": "stop", "ret": -6.544, "alpha": -5.692, "cost": 0.4, "long_win": false, "sig": "mna_target|filing+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T14:57:41Z", "ticker": "PPC", "dir": 1, "exit": "stop", "ret": -6.491, "alpha": -5.518, "cost": 0.4, "long_win": false, "sig": "mna_target|filing+news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T16:04:55Z", "ticker": "PSKY", "dir": 1, "exit": "stop", "ret": -7.438, "alpha": -6.634, "cost": 0.16, "long_win": false, "sig": "mna_target|filing+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T17:13:53Z", "ticker": "ACCV", "dir": 1, "exit": "stop", "ret": -8.816, "alpha": -8.605, "cost": 0.16, "long_win": false, "sig": "unknown|filing+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T17:44:48Z", "ticker": "COO", "dir": 1, "exit": "time", "ret": 5.113, "alpha": 6.24, "cost": 0.16, "long_win": true, "sig": "activist_stake|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T17:54:13Z", "ticker": "RGEN", "dir": 1, "exit": "stop", "ret": -8.363, "alpha": -7.824, "cost": 0.16, "long_win": false, "sig": "unknown|filing+news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T18:17:47Z", "ticker": "COST", "dir": 1, "exit": "time", "ret": 2.248, "alpha": 2.753, "cost": 0.06, "long_win": true, "sig": "index_inclusion|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T18:24:12Z", "ticker": "SPCX", "dir": 1, "exit": "time", "ret": -1.591, "alpha": -0.379, "cost": 0.06, "long_win": false, "sig": "mna_target|news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T18:38:40Z", "ticker": "MAT", "dir": 1, "exit": "target", "ret": 30.609, "alpha": 31.241, "cost": 0.16, "long_win": true, "sig": "unknown|filing+news+social|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T19:17:57Z", "ticker": "FHTX", "dir": 1, "exit": "target", "ret": 11.323, "alpha": 10.829, "cost": 0.8, "long_win": true, "sig": "unknown|news+regulatory|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T19:21:27Z", "ticker": "XYZ", "dir": 1, "exit": "time", "ret": -2.86, "alpha": -4.525, "cost": 0.16, "long_win": false, "sig": "demand_surge|demand+news|rates_flat|risk_on|growth_up"}
+{"ts": "2026-10-01T19:23:48Z", "ticker": "SWKS", "dir": 1, "exit": "stop", "ret": -6.381, "alpha": -6.073, "cost": 0.16, "long_win": false, "sig": "mna_target|filing+news+social|rates_flat|risk_on|growth_up"}
