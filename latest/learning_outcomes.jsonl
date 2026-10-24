@@ -4958,3 +4958,12 @@
 {"ts": "2026-10-22T19:34:01Z", "ticker": "FRNM", "dir": 1, "exit": "stop", "ret": -9.219, "alpha": -8.374, "cost": 0.8, "long_win": false, "sig": "unknown|filing+news+social|rates_up|risk_on|growth_up"}
 {"ts": "2026-10-22T19:50:20Z", "ticker": "CSX", "dir": 1, "exit": "target", "ret": 9.184, "alpha": 11.139, "cost": 0.06, "long_win": true, "sig": "mna_target|filing+news|rates_up|risk_on|growth_up"}
 {"ts": "2026-10-22T19:54:14Z", "ticker": "ABBV", "dir": 1, "exit": "time", "ret": 0.238, "alpha": 0.658, "cost": 0.06, "long_win": true, "sig": "fda_approval|news+social|rates_up|risk_on|growth_up"}
+{"ts": "2026-10-23T13:35:38Z", "ticker": "AMZN", "dir": 1, "exit": "time", "ret": -2.397, "alpha": -1.927, "cost": 0.06, "long_win": false, "sig": "index_inclusion|news+social|rates_up|risk_on|growth_up"}
+{"ts": "2026-10-23T13:36:36Z", "ticker": "CIEN", "dir": 1, "exit": "stop", "ret": -8.401, "alpha": -7.522, "cost": 0.06, "long_win": false, "sig": "earnings_beat|filing+news|rates_up|risk_on|growth_up"}
+{"ts": "2026-10-23T13:36:38Z", "ticker": "META", "dir": 1, "exit": "stop", "ret": -8.213, "alpha": -6.952, "cost": 0.06, "long_win": false, "sig": "unknown|news|rates_up|risk_on|growth_up"}
+{"ts": "2026-10-23T13:47:48Z", "ticker": "CHD", "dir": 1, "exit": "time", "ret": 3.682, "alpha": 4.02, "cost": 0.16, "long_win": true, "sig": "index_inclusion|filing+news|rates_up|risk_on|growth_up"}
+{"ts": "2026-10-23T13:54:36Z", "ticker": "BMBL", "dir": 1, "exit": "time", "ret": -0.652, "alpha": 1.579, "cost": 0.4, "long_win": true, "sig": "mna_target|filing+news+regulatory+social|rates_up|risk_on|growth_up"}
+{"ts": "2026-10-23T14:38:25Z", "ticker": "SWBI", "dir": 1, "exit": "stop", "ret": -6.934, "alpha": -5.511, "cost": 0.8, "long_win": false, "sig": "mna_target|filing+news|rates_up|risk_on|growth_up"}
+{"ts": "2026-10-23T16:34:39Z", "ticker": "MU", "dir": 1, "exit": "time", "ret": -1.319, "alpha": -1.171, "cost": 0.06, "long_win": false, "sig": "index_inclusion|news+social|rates_up|risk_on|growth_up"}
+{"ts": "2026-10-23T19:02:43Z", "ticker": "MO", "dir": 1, "exit": "time", "ret": -0.774, "alpha": -0.422, "cost": 0.16, "long_win": false, "sig": "index_inclusion|filing+news|rates_up|risk_on|growth_up"}
+{"ts": "2026-10-23T19:09:31Z", "ticker": "BOLT", "dir": 1, "exit": "stop", "ret": -6.985, "alpha": -6.815, "cost": 0.4, "long_win": false, "sig": "mna_target|filing+regulatory|rates_up|risk_on|growth_up"}
