@@ -79,7 +79,7 @@
     "pwin": 0.498,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 648.5969848632812,
+    "peak": 653.9450073242188,
     "trough": 608.2323,
     "ext_stop_hits": 0
   },
@@ -240,7 +240,7 @@
     "event_ts": null,
     "exit_by_ts": null,
     "peak": 96.06999969482422,
-    "trough": 93.45999908447266,
+    "trough": 93.30000305175781,
     "ext_stop_hits": 0
   },
   {
@@ -322,7 +322,7 @@
     "pwin": 0.247,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 30.2,
+    "peak": 30.635000228881836,
     "trough": 29.475000381469727,
     "ext_stop_hits": 0
   },
@@ -405,7 +405,7 @@
     "event_ts": null,
     "exit_by_ts": null,
     "peak": 942.0,
-    "trough": 920.0,
+    "trough": 880.8400268554688,
     "ext_stop_hits": 0
   },
   {
@@ -486,7 +486,7 @@
     "pwin": 0.511,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 35.95000076293945,
+    "peak": 38.470001220703125,
     "trough": 34.244998931884766,
     "ext_stop_hits": 0
   }
