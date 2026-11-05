@@ -78,7 +78,7 @@
     "pwin": 0.463,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 423.5299987792969,
+    "peak": 426.92,
     "trough": 412.0,
     "ext_stop_hits": 0
   },
@@ -162,7 +162,7 @@
     "pwin": 0.408,
     "event_ts": null,
     "exit_by_ts": null,
-    "peak": 112.48,
+    "peak": 113.41999816894531,
     "trough": 104.0,
     "ext_stop_hits": 0
   },
