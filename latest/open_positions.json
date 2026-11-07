@@ -79,7 +79,7 @@
     "event_ts": null,
     "exit_by_ts": null,
     "peak": 428.2799987792969,
-    "trough": 412.0,
+    "trough": 405.0,
     "ext_stop_hits": 0
   },
   {
@@ -249,7 +249,7 @@
     "event_ts": null,
     "exit_by_ts": null,
     "peak": 31.405000686645508,
-    "trough": 29.8219,
+    "trough": 28.6875,
     "ext_stop_hits": 0
   }
 ]
