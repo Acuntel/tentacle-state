@@ -6139,3 +6139,14 @@
 {"ts": "2026-11-25T19:10:47Z", "ticker": "SMG", "dir": 1, "exit": "time", "ret": 4.314, "alpha": 0.306, "cost": 0.4, "long_win": true, "sig": "unknown|filing+news+social|rates_up|risk_off|growth_up"}
 {"ts": "2026-11-25T19:14:07Z", "ticker": "NEXN", "dir": 1, "exit": "time", "ret": 3.504, "alpha": -0.504, "cost": 0.8, "long_win": true, "sig": "unknown|filing+news+social|rates_up|risk_off|growth_up"}
 {"ts": "2026-11-25T19:30:40Z", "ticker": "TTWO", "dir": 1, "exit": "time", "ret": 7.132, "alpha": 3.214, "cost": 0.06, "long_win": true, "sig": "unknown|filing+news|rates_up|risk_off|growth_up"}
+{"ts": "2026-11-27T14:30:38Z", "ticker": "JPM", "dir": 1, "exit": "time", "ret": -1.489, "alpha": -2.763, "cost": 0.06, "long_win": false, "sig": "index_inclusion|filing+news|rates_up|risk_off|growth_up"}
+{"ts": "2026-11-27T14:30:38Z", "ticker": "IT", "dir": 1, "exit": "time", "ret": 3.056, "alpha": 1.782, "cost": 0.16, "long_win": true, "sig": "index_inclusion|filing+news+social|rates_up|risk_off|growth_up"}
+{"ts": "2026-11-27T14:30:44Z", "ticker": "DELL", "dir": 1, "exit": "target", "ret": 9.151, "alpha": 5.954, "cost": 0.06, "long_win": true, "sig": "index_inclusion|filing+news+social|rates_up|risk_off|growth_up"}
+{"ts": "2026-11-27T14:31:53Z", "ticker": "RZLT", "dir": 1, "exit": "time", "ret": 6.236, "alpha": 4.814, "cost": 0.8, "long_win": true, "sig": "fda_approval|filing+news+social|rates_up|risk_off|growth_up"}
+{"ts": "2026-11-27T14:51:04Z", "ticker": "HZO", "dir": 1, "exit": "time", "ret": -0.125, "alpha": 1.303, "cost": 0.4, "long_win": true, "sig": "mna_target|filing+news+social|rates_up|risk_on|growth_up"}
+{"ts": "2026-11-27T15:09:30Z", "ticker": "ROCK", "dir": 1, "exit": "target", "ret": 11.781, "alpha": 12.474, "cost": 0.4, "long_win": true, "sig": "unknown|filing+news+social|rates_up|risk_off|growth_up"}
+{"ts": "2026-11-27T15:15:02Z", "ticker": "REGN", "dir": 1, "exit": "time", "ret": 0.463, "alpha": -0.303, "cost": 0.06, "long_win": false, "sig": "fda_approval|news+social|rates_up|risk_off|growth_up"}
+{"ts": "2026-11-27T15:32:29Z", "ticker": "MBWM", "dir": 1, "exit": "time", "ret": -3.185, "alpha": -1.932, "cost": 0.8, "long_win": false, "sig": "mna_target|filing+news|rates_up|risk_on|growth_up"}
+{"ts": "2026-11-27T16:21:06Z", "ticker": "BUR", "dir": 1, "exit": "target", "ret": 10.602, "alpha": 9.28, "cost": 1.6, "long_win": true, "sig": "unknown|filing+news+social|rates_up|risk_off|growth_up"}
+{"ts": "2026-11-27T17:46:38Z", "ticker": "BBIO", "dir": 1, "exit": "time", "ret": 6.12, "alpha": 5.102, "cost": 0.16, "long_win": true, "sig": "fda_approval|news+social|rates_up|risk_off|growth_up"}
+{"ts": "2026-11-27T17:59:37Z", "ticker": "ELMT", "dir": 1, "exit": "target", "ret": 11.722, "alpha": 10.116, "cost": 0.8, "long_win": true, "sig": "gov_contract|filing+news+social|rates_up|risk_off|growth_up"}
